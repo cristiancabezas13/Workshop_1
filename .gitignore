@@ -1,0 +1,13 @@
+# Datos descargados de Kaggle (no se versionan: se bajan con kagglehub)
+anime.csv
+rating.csv
+*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+GUIA_SUSTENTACION.md
