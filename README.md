@@ -38,8 +38,3 @@ pip install pandas numpy matplotlib seaborn kagglehub jupyter
 | 3 | Exploración: `value_counts()`, diccionario sobre subconjunto filtrado, `groupby()` y ordenamientos |
 | 4 | Visualización: barras, pie, histograma, scatter y dos boxplots — cada uno con interpretación y recomendación de negocio |
 | 5 | Conclusiones generales y resumen visual en un `subplot(2,2)` |
-
-> Los CSV no se versionan (ver [`.gitignore`](.gitignore)): se descargan con `kagglehub` al ejecutar.
-
-> [`GUIA_SUSTENTACION.md`](GUIA_SUSTENTACION.md) es material de estudio interno del equipo, no
-> hace parte del entregable.
