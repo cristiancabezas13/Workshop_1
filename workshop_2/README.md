@@ -49,7 +49,7 @@ El ejecutor utiliza el mismo Python que lo invoca y detiene la ejecución ante u
 ## Ejecución en Colab
 
 1. Abrir uno de los siguientes enlaces de Colab, o subir el archivo `.ipynb` mediante **Archivo → Subir notebook**.
-2. Usar un entorno Python de CPU; no se requiere GPU. Ejecutar la celda de instalación indicada al principio, antes de importar las bibliotecas. Si Colab solicita reiniciar el entorno después de instalar, reiniciarlo y continuar desde los imports.
+2. Usar un entorno Python de CPU; no se requiere GPU. Ejecutar la primera celda antes de importar las bibliotecas. Si instala versiones nuevas, se detiene con **REINICIO NECESARIO**: elegir **Entorno de ejecución → Reiniciar la sesión** y después **Ejecutar todo**. Repetir únicamente la primera celda no sustituye el reinicio. La tabla siguiente comprueba que las versiones instaladas y las cargadas en memoria coincidan con las del taller.
 3. Ejecutar todas las celdas en orden. Si falta el CSV, el notebook descarga la versión fijada de Kaggle y comprueba su SHA-256. No requiere montar Drive ni rutas del equipo del autor.
 4. Descargar el notebook con las salidas y, si se desean, los archivos de `reportes/` y `figuras/` antes de cerrar la sesión.
 
