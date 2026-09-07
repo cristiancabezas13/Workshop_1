@@ -1,0 +1,1821 @@
+Modelo,Conjunto,indice_archivo_original,y_real,y_pred
+KNN,train,0,0,0
+KNN,train,1,0,0
+KNN,train,2,0,0
+KNN,train,5,0,0
+KNN,train,6,0,0
+KNN,train,7,0,0
+KNN,train,8,0,0
+KNN,train,11,0,0
+KNN,train,12,0,0
+KNN,train,13,0,0
+KNN,train,14,0,0
+KNN,train,15,0,0
+KNN,train,16,0,0
+KNN,train,19,0,0
+KNN,train,20,0,0
+KNN,train,21,0,0
+KNN,train,22,0,0
+KNN,train,24,0,0
+KNN,train,26,0,0
+KNN,train,27,0,0
+KNN,train,28,0,0
+KNN,train,29,0,0
+KNN,train,33,0,0
+KNN,train,34,0,0
+KNN,train,35,0,0
+KNN,train,36,0,0
+KNN,train,37,0,0
+KNN,train,42,0,0
+KNN,train,43,0,0
+KNN,train,44,0,0
+KNN,train,45,0,0
+KNN,train,46,0,0
+KNN,train,47,0,1
+KNN,train,48,1,1
+KNN,train,51,0,0
+KNN,train,52,0,0
+KNN,train,53,0,0
+KNN,train,54,0,0
+KNN,train,55,0,0
+KNN,train,56,0,0
+KNN,train,59,0,0
+KNN,train,60,0,0
+KNN,train,63,0,0
+KNN,train,64,0,0
+KNN,train,65,0,0
+KNN,train,67,0,0
+KNN,train,68,0,0
+KNN,train,72,0,0
+KNN,train,73,0,0
+KNN,train,74,0,0
+KNN,train,75,0,0
+KNN,train,76,0,0
+KNN,train,78,0,0
+KNN,train,79,0,0
+KNN,train,81,0,0
+KNN,train,82,0,0
+KNN,train,83,0,0
+KNN,train,85,0,0
+KNN,train,88,1,0
+KNN,train,89,1,1
+KNN,train,90,1,1
+KNN,train,91,1,0
+KNN,train,92,0,0
+KNN,train,93,0,0
+KNN,train,96,0,0
+KNN,train,97,0,0
+KNN,train,98,0,0
+KNN,train,99,0,0
+KNN,train,100,0,0
+KNN,train,101,0,0
+KNN,train,102,0,0
+KNN,train,106,0,0
+KNN,train,107,0,0
+KNN,train,108,0,0
+KNN,train,110,0,0
+KNN,train,112,0,0
+KNN,train,113,0,0
+KNN,train,114,0,0
+KNN,train,115,0,0
+KNN,train,118,0,0
+KNN,train,119,0,0
+KNN,train,122,0,0
+KNN,train,124,0,0
+KNN,train,125,0,0
+KNN,train,127,0,0
+KNN,train,128,0,0
+KNN,train,129,0,0
+KNN,train,131,0,0
+KNN,train,133,0,0
+KNN,train,134,0,0
+KNN,train,139,0,0
+KNN,train,140,0,0
+KNN,train,141,0,0
+KNN,train,143,0,0
+KNN,train,144,0,0
+KNN,train,147,0,0
+KNN,train,148,0,0
+KNN,train,149,0,0
+KNN,train,150,0,0
+KNN,train,152,0,0
+KNN,train,154,0,0
+KNN,train,155,0,0
+KNN,train,156,0,0
+KNN,train,157,0,0
+KNN,train,160,0,0
+KNN,train,161,0,0
+KNN,train,162,0,0
+KNN,train,163,0,0
+KNN,train,164,0,0
+KNN,train,165,0,0
+KNN,train,170,0,0
+KNN,train,171,0,0
+KNN,train,172,0,0
+KNN,train,173,0,0
+KNN,train,174,0,0
+KNN,train,177,0,0
+KNN,train,179,0,0
+KNN,train,180,0,0
+KNN,train,181,0,0
+KNN,train,182,0,0
+KNN,train,184,0,0
+KNN,train,185,0,0
+KNN,train,190,0,0
+KNN,train,192,0,0
+KNN,train,193,0,0
+KNN,train,194,0,0
+KNN,train,195,0,0
+KNN,train,199,0,0
+KNN,train,200,0,0
+KNN,train,201,0,0
+KNN,train,202,0,1
+KNN,train,203,0,0
+KNN,train,204,0,0
+KNN,train,205,0,0
+KNN,train,206,0,0
+KNN,train,209,0,0
+KNN,train,210,0,0
+KNN,train,211,0,0
+KNN,train,212,0,0
+KNN,train,213,0,0
+KNN,train,216,0,0
+KNN,train,217,0,0
+KNN,train,218,0,1
+KNN,train,219,0,0
+KNN,train,222,0,0
+KNN,train,223,1,0
+KNN,train,224,1,0
+KNN,train,225,1,0
+KNN,train,226,1,0
+KNN,train,227,1,0
+KNN,train,230,1,1
+KNN,train,231,1,1
+KNN,train,232,1,1
+KNN,train,233,1,0
+KNN,train,234,1,1
+KNN,train,237,1,0
+KNN,train,238,1,0
+KNN,train,239,1,0
+KNN,train,240,1,1
+KNN,train,241,1,0
+KNN,train,244,0,0
+KNN,train,245,0,1
+KNN,train,246,0,0
+KNN,train,247,0,0
+KNN,train,248,0,0
+KNN,train,251,0,0
+KNN,train,252,0,0
+KNN,train,253,0,0
+KNN,train,254,0,0
+KNN,train,255,0,0
+KNN,train,258,0,0
+KNN,train,259,0,0
+KNN,train,260,0,0
+KNN,train,261,0,0
+KNN,train,262,0,0
+KNN,train,265,0,0
+KNN,train,266,0,0
+KNN,train,267,0,0
+KNN,train,268,0,0
+KNN,train,269,0,0
+KNN,train,271,0,0
+KNN,train,273,0,0
+KNN,train,274,0,0
+KNN,train,275,0,0
+KNN,train,276,0,0
+KNN,train,277,0,0
+KNN,train,280,0,0
+KNN,train,281,0,0
+KNN,train,282,0,0
+KNN,train,283,0,0
+KNN,train,284,0,0
+KNN,train,285,0,0
+KNN,train,288,0,0
+KNN,train,289,0,1
+KNN,train,290,0,1
+KNN,train,293,0,0
+KNN,train,294,0,0
+KNN,train,295,0,0
+KNN,train,296,0,0
+KNN,train,297,0,0
+KNN,train,300,1,1
+KNN,train,301,1,1
+KNN,train,302,1,1
+KNN,train,303,1,0
+KNN,train,304,1,1
+KNN,train,305,1,0
+KNN,train,308,1,1
+KNN,train,309,1,1
+KNN,train,310,1,1
+KNN,train,311,1,1
+KNN,train,312,1,1
+KNN,train,314,1,1
+KNN,train,315,1,1
+KNN,train,317,1,1
+KNN,train,318,1,1
+KNN,train,319,1,1
+KNN,train,321,1,1
+KNN,train,322,1,1
+KNN,train,324,1,1
+KNN,train,325,1,1
+KNN,train,326,1,1
+KNN,train,328,1,0
+KNN,train,329,1,0
+KNN,train,331,1,1
+KNN,train,332,1,0
+KNN,train,333,1,1
+KNN,train,335,1,1
+KNN,train,336,1,1
+KNN,train,337,1,1
+KNN,train,338,1,1
+KNN,train,340,0,0
+KNN,train,343,1,1
+KNN,train,344,1,1
+KNN,train,345,1,1
+KNN,train,346,1,1
+KNN,train,347,1,1
+KNN,train,348,1,1
+KNN,train,349,1,1
+KNN,train,352,1,0
+KNN,train,353,1,1
+KNN,train,354,1,1
+KNN,train,355,0,0
+KNN,train,356,1,1
+KNN,train,357,1,1
+KNN,train,358,1,1
+KNN,train,361,1,1
+KNN,train,362,1,1
+KNN,train,363,1,1
+KNN,train,365,1,1
+KNN,train,367,1,1
+KNN,train,368,1,1
+KNN,train,371,1,1
+KNN,train,372,1,1
+KNN,train,373,1,1
+KNN,train,374,1,1
+KNN,train,375,1,1
+KNN,train,376,1,1
+KNN,train,377,1,1
+KNN,train,378,1,1
+KNN,train,381,1,1
+KNN,train,382,1,1
+KNN,validacion,4,0,0
+KNN,validacion,10,0,0
+KNN,validacion,18,0,0
+KNN,validacion,23,0,0
+KNN,validacion,31,0,0
+KNN,validacion,41,0,0
+KNN,validacion,50,0,0
+KNN,validacion,58,0,0
+KNN,validacion,62,0,0
+KNN,validacion,71,0,0
+KNN,validacion,84,0,0
+KNN,validacion,87,1,0
+KNN,validacion,95,0,0
+KNN,validacion,104,0,0
+KNN,validacion,111,0,0
+KNN,validacion,117,0,0
+KNN,validacion,130,0,0
+KNN,validacion,136,0,0
+KNN,validacion,142,0,0
+KNN,validacion,146,0,0
+KNN,validacion,153,0,0
+KNN,validacion,159,0,0
+KNN,validacion,169,0,0
+KNN,validacion,176,0,0
+KNN,validacion,188,0,0
+KNN,validacion,191,0,0
+KNN,validacion,198,0,0
+KNN,validacion,208,0,1
+KNN,validacion,215,0,0
+KNN,validacion,221,0,0
+KNN,validacion,229,1,1
+KNN,validacion,236,1,0
+KNN,validacion,243,0,0
+KNN,validacion,250,0,0
+KNN,validacion,257,0,0
+KNN,validacion,264,0,0
+KNN,validacion,272,0,0
+KNN,validacion,279,0,0
+KNN,validacion,287,0,0
+KNN,validacion,291,0,1
+KNN,validacion,299,1,0
+KNN,validacion,307,1,1
+KNN,validacion,316,1,1
+KNN,validacion,323,1,1
+KNN,validacion,330,1,1
+KNN,validacion,339,0,1
+KNN,validacion,342,1,1
+KNN,validacion,351,1,0
+KNN,validacion,360,1,1
+KNN,validacion,366,1,1
+KNN,validacion,370,1,1
+KNN,validacion,380,1,1
+Árbol de decisión,train,0,0,0
+Árbol de decisión,train,1,0,0
+Árbol de decisión,train,2,0,0
+Árbol de decisión,train,5,0,0
+Árbol de decisión,train,6,0,0
+Árbol de decisión,train,7,0,0
+Árbol de decisión,train,8,0,0
+Árbol de decisión,train,11,0,0
+Árbol de decisión,train,12,0,0
+Árbol de decisión,train,13,0,0
+Árbol de decisión,train,14,0,0
+Árbol de decisión,train,15,0,0
+Árbol de decisión,train,16,0,0
+Árbol de decisión,train,19,0,0
+Árbol de decisión,train,20,0,0
+Árbol de decisión,train,21,0,0
+Árbol de decisión,train,22,0,0
+Árbol de decisión,train,24,0,0
+Árbol de decisión,train,26,0,0
+Árbol de decisión,train,27,0,0
+Árbol de decisión,train,28,0,0
+Árbol de decisión,train,29,0,0
+Árbol de decisión,train,33,0,0
+Árbol de decisión,train,34,0,0
+Árbol de decisión,train,35,0,0
+Árbol de decisión,train,36,0,0
+Árbol de decisión,train,37,0,0
+Árbol de decisión,train,42,0,0
+Árbol de decisión,train,43,0,0
+Árbol de decisión,train,44,0,0
+Árbol de decisión,train,45,0,0
+Árbol de decisión,train,46,0,0
+Árbol de decisión,train,47,0,0
+Árbol de decisión,train,48,1,1
+Árbol de decisión,train,51,0,0
+Árbol de decisión,train,52,0,0
+Árbol de decisión,train,53,0,0
+Árbol de decisión,train,54,0,0
+Árbol de decisión,train,55,0,0
+Árbol de decisión,train,56,0,0
+Árbol de decisión,train,59,0,0
+Árbol de decisión,train,60,0,0
+Árbol de decisión,train,63,0,0
+Árbol de decisión,train,64,0,0
+Árbol de decisión,train,65,0,0
+Árbol de decisión,train,67,0,0
+Árbol de decisión,train,68,0,0
+Árbol de decisión,train,72,0,0
+Árbol de decisión,train,73,0,0
+Árbol de decisión,train,74,0,0
+Árbol de decisión,train,75,0,0
+Árbol de decisión,train,76,0,0
+Árbol de decisión,train,78,0,0
+Árbol de decisión,train,79,0,0
+Árbol de decisión,train,81,0,0
+Árbol de decisión,train,82,0,0
+Árbol de decisión,train,83,0,0
+Árbol de decisión,train,85,0,0
+Árbol de decisión,train,88,1,1
+Árbol de decisión,train,89,1,1
+Árbol de decisión,train,90,1,1
+Árbol de decisión,train,91,1,1
+Árbol de decisión,train,92,0,0
+Árbol de decisión,train,93,0,0
+Árbol de decisión,train,96,0,0
+Árbol de decisión,train,97,0,0
+Árbol de decisión,train,98,0,0
+Árbol de decisión,train,99,0,0
+Árbol de decisión,train,100,0,0
+Árbol de decisión,train,101,0,0
+Árbol de decisión,train,102,0,0
+Árbol de decisión,train,106,0,0
+Árbol de decisión,train,107,0,0
+Árbol de decisión,train,108,0,0
+Árbol de decisión,train,110,0,0
+Árbol de decisión,train,112,0,0
+Árbol de decisión,train,113,0,0
+Árbol de decisión,train,114,0,0
+Árbol de decisión,train,115,0,0
+Árbol de decisión,train,118,0,0
+Árbol de decisión,train,119,0,0
+Árbol de decisión,train,122,0,0
+Árbol de decisión,train,124,0,0
+Árbol de decisión,train,125,0,0
+Árbol de decisión,train,127,0,0
+Árbol de decisión,train,128,0,0
+Árbol de decisión,train,129,0,0
+Árbol de decisión,train,131,0,0
+Árbol de decisión,train,133,0,0
+Árbol de decisión,train,134,0,0
+Árbol de decisión,train,139,0,0
+Árbol de decisión,train,140,0,0
+Árbol de decisión,train,141,0,0
+Árbol de decisión,train,143,0,0
+Árbol de decisión,train,144,0,0
+Árbol de decisión,train,147,0,0
+Árbol de decisión,train,148,0,0
+Árbol de decisión,train,149,0,0
+Árbol de decisión,train,150,0,0
+Árbol de decisión,train,152,0,0
+Árbol de decisión,train,154,0,0
+Árbol de decisión,train,155,0,0
+Árbol de decisión,train,156,0,0
+Árbol de decisión,train,157,0,0
+Árbol de decisión,train,160,0,0
+Árbol de decisión,train,161,0,0
+Árbol de decisión,train,162,0,0
+Árbol de decisión,train,163,0,0
+Árbol de decisión,train,164,0,0
+Árbol de decisión,train,165,0,0
+Árbol de decisión,train,170,0,0
+Árbol de decisión,train,171,0,0
+Árbol de decisión,train,172,0,0
+Árbol de decisión,train,173,0,0
+Árbol de decisión,train,174,0,0
+Árbol de decisión,train,177,0,0
+Árbol de decisión,train,179,0,0
+Árbol de decisión,train,180,0,0
+Árbol de decisión,train,181,0,0
+Árbol de decisión,train,182,0,0
+Árbol de decisión,train,184,0,0
+Árbol de decisión,train,185,0,0
+Árbol de decisión,train,190,0,0
+Árbol de decisión,train,192,0,0
+Árbol de decisión,train,193,0,0
+Árbol de decisión,train,194,0,0
+Árbol de decisión,train,195,0,0
+Árbol de decisión,train,199,0,0
+Árbol de decisión,train,200,0,0
+Árbol de decisión,train,201,0,0
+Árbol de decisión,train,202,0,0
+Árbol de decisión,train,203,0,0
+Árbol de decisión,train,204,0,0
+Árbol de decisión,train,205,0,0
+Árbol de decisión,train,206,0,0
+Árbol de decisión,train,209,0,0
+Árbol de decisión,train,210,0,0
+Árbol de decisión,train,211,0,0
+Árbol de decisión,train,212,0,0
+Árbol de decisión,train,213,0,0
+Árbol de decisión,train,216,0,0
+Árbol de decisión,train,217,0,0
+Árbol de decisión,train,218,0,0
+Árbol de decisión,train,219,0,0
+Árbol de decisión,train,222,0,0
+Árbol de decisión,train,223,1,0
+Árbol de decisión,train,224,1,1
+Árbol de decisión,train,225,1,1
+Árbol de decisión,train,226,1,1
+Árbol de decisión,train,227,1,1
+Árbol de decisión,train,230,1,1
+Árbol de decisión,train,231,1,1
+Árbol de decisión,train,232,1,1
+Árbol de decisión,train,233,1,1
+Árbol de decisión,train,234,1,1
+Árbol de decisión,train,237,1,1
+Árbol de decisión,train,238,1,1
+Árbol de decisión,train,239,1,1
+Árbol de decisión,train,240,1,1
+Árbol de decisión,train,241,1,1
+Árbol de decisión,train,244,0,0
+Árbol de decisión,train,245,0,0
+Árbol de decisión,train,246,0,0
+Árbol de decisión,train,247,0,0
+Árbol de decisión,train,248,0,0
+Árbol de decisión,train,251,0,0
+Árbol de decisión,train,252,0,0
+Árbol de decisión,train,253,0,0
+Árbol de decisión,train,254,0,0
+Árbol de decisión,train,255,0,0
+Árbol de decisión,train,258,0,0
+Árbol de decisión,train,259,0,0
+Árbol de decisión,train,260,0,0
+Árbol de decisión,train,261,0,0
+Árbol de decisión,train,262,0,0
+Árbol de decisión,train,265,0,0
+Árbol de decisión,train,266,0,0
+Árbol de decisión,train,267,0,0
+Árbol de decisión,train,268,0,0
+Árbol de decisión,train,269,0,0
+Árbol de decisión,train,271,0,0
+Árbol de decisión,train,273,0,0
+Árbol de decisión,train,274,0,0
+Árbol de decisión,train,275,0,0
+Árbol de decisión,train,276,0,0
+Árbol de decisión,train,277,0,0
+Árbol de decisión,train,280,0,0
+Árbol de decisión,train,281,0,0
+Árbol de decisión,train,282,0,0
+Árbol de decisión,train,283,0,0
+Árbol de decisión,train,284,0,0
+Árbol de decisión,train,285,0,0
+Árbol de decisión,train,288,0,0
+Árbol de decisión,train,289,0,0
+Árbol de decisión,train,290,0,0
+Árbol de decisión,train,293,0,0
+Árbol de decisión,train,294,0,0
+Árbol de decisión,train,295,0,0
+Árbol de decisión,train,296,0,0
+Árbol de decisión,train,297,0,0
+Árbol de decisión,train,300,1,1
+Árbol de decisión,train,301,1,1
+Árbol de decisión,train,302,1,1
+Árbol de decisión,train,303,1,1
+Árbol de decisión,train,304,1,1
+Árbol de decisión,train,305,1,1
+Árbol de decisión,train,308,1,1
+Árbol de decisión,train,309,1,1
+Árbol de decisión,train,310,1,1
+Árbol de decisión,train,311,1,1
+Árbol de decisión,train,312,1,1
+Árbol de decisión,train,314,1,1
+Árbol de decisión,train,315,1,1
+Árbol de decisión,train,317,1,1
+Árbol de decisión,train,318,1,1
+Árbol de decisión,train,319,1,1
+Árbol de decisión,train,321,1,1
+Árbol de decisión,train,322,1,1
+Árbol de decisión,train,324,1,1
+Árbol de decisión,train,325,1,1
+Árbol de decisión,train,326,1,1
+Árbol de decisión,train,328,1,1
+Árbol de decisión,train,329,1,1
+Árbol de decisión,train,331,1,1
+Árbol de decisión,train,332,1,1
+Árbol de decisión,train,333,1,1
+Árbol de decisión,train,335,1,1
+Árbol de decisión,train,336,1,1
+Árbol de decisión,train,337,1,1
+Árbol de decisión,train,338,1,1
+Árbol de decisión,train,340,0,0
+Árbol de decisión,train,343,1,1
+Árbol de decisión,train,344,1,1
+Árbol de decisión,train,345,1,1
+Árbol de decisión,train,346,1,1
+Árbol de decisión,train,347,1,1
+Árbol de decisión,train,348,1,1
+Árbol de decisión,train,349,1,1
+Árbol de decisión,train,352,1,1
+Árbol de decisión,train,353,1,1
+Árbol de decisión,train,354,1,1
+Árbol de decisión,train,355,0,0
+Árbol de decisión,train,356,1,1
+Árbol de decisión,train,357,1,1
+Árbol de decisión,train,358,1,1
+Árbol de decisión,train,361,1,1
+Árbol de decisión,train,362,1,1
+Árbol de decisión,train,363,1,1
+Árbol de decisión,train,365,1,1
+Árbol de decisión,train,367,1,1
+Árbol de decisión,train,368,1,1
+Árbol de decisión,train,371,1,1
+Árbol de decisión,train,372,1,1
+Árbol de decisión,train,373,1,1
+Árbol de decisión,train,374,1,1
+Árbol de decisión,train,375,1,1
+Árbol de decisión,train,376,1,1
+Árbol de decisión,train,377,1,1
+Árbol de decisión,train,378,1,1
+Árbol de decisión,train,381,1,1
+Árbol de decisión,train,382,1,1
+Árbol de decisión,validacion,4,0,0
+Árbol de decisión,validacion,10,0,0
+Árbol de decisión,validacion,18,0,0
+Árbol de decisión,validacion,23,0,0
+Árbol de decisión,validacion,31,0,0
+Árbol de decisión,validacion,41,0,0
+Árbol de decisión,validacion,50,0,0
+Árbol de decisión,validacion,58,0,0
+Árbol de decisión,validacion,62,0,0
+Árbol de decisión,validacion,71,0,0
+Árbol de decisión,validacion,84,0,0
+Árbol de decisión,validacion,87,1,0
+Árbol de decisión,validacion,95,0,0
+Árbol de decisión,validacion,104,0,0
+Árbol de decisión,validacion,111,0,0
+Árbol de decisión,validacion,117,0,0
+Árbol de decisión,validacion,130,0,0
+Árbol de decisión,validacion,136,0,1
+Árbol de decisión,validacion,142,0,0
+Árbol de decisión,validacion,146,0,0
+Árbol de decisión,validacion,153,0,0
+Árbol de decisión,validacion,159,0,0
+Árbol de decisión,validacion,169,0,1
+Árbol de decisión,validacion,176,0,0
+Árbol de decisión,validacion,188,0,0
+Árbol de decisión,validacion,191,0,0
+Árbol de decisión,validacion,198,0,0
+Árbol de decisión,validacion,208,0,0
+Árbol de decisión,validacion,215,0,0
+Árbol de decisión,validacion,221,0,0
+Árbol de decisión,validacion,229,1,1
+Árbol de decisión,validacion,236,1,0
+Árbol de decisión,validacion,243,0,0
+Árbol de decisión,validacion,250,0,0
+Árbol de decisión,validacion,257,0,0
+Árbol de decisión,validacion,264,0,0
+Árbol de decisión,validacion,272,0,0
+Árbol de decisión,validacion,279,0,1
+Árbol de decisión,validacion,287,0,0
+Árbol de decisión,validacion,291,0,0
+Árbol de decisión,validacion,299,1,0
+Árbol de decisión,validacion,307,1,0
+Árbol de decisión,validacion,316,1,1
+Árbol de decisión,validacion,323,1,1
+Árbol de decisión,validacion,330,1,1
+Árbol de decisión,validacion,339,0,1
+Árbol de decisión,validacion,342,1,1
+Árbol de decisión,validacion,351,1,0
+Árbol de decisión,validacion,360,1,1
+Árbol de decisión,validacion,366,1,1
+Árbol de decisión,validacion,370,1,1
+Árbol de decisión,validacion,380,1,1
+Random Forest,train,0,0,0
+Random Forest,train,1,0,0
+Random Forest,train,2,0,0
+Random Forest,train,5,0,0
+Random Forest,train,6,0,0
+Random Forest,train,7,0,0
+Random Forest,train,8,0,0
+Random Forest,train,11,0,0
+Random Forest,train,12,0,0
+Random Forest,train,13,0,0
+Random Forest,train,14,0,0
+Random Forest,train,15,0,0
+Random Forest,train,16,0,0
+Random Forest,train,19,0,0
+Random Forest,train,20,0,0
+Random Forest,train,21,0,0
+Random Forest,train,22,0,0
+Random Forest,train,24,0,0
+Random Forest,train,26,0,0
+Random Forest,train,27,0,0
+Random Forest,train,28,0,0
+Random Forest,train,29,0,0
+Random Forest,train,33,0,0
+Random Forest,train,34,0,0
+Random Forest,train,35,0,0
+Random Forest,train,36,0,0
+Random Forest,train,37,0,0
+Random Forest,train,42,0,0
+Random Forest,train,43,0,0
+Random Forest,train,44,0,0
+Random Forest,train,45,0,0
+Random Forest,train,46,0,0
+Random Forest,train,47,0,0
+Random Forest,train,48,1,1
+Random Forest,train,51,0,0
+Random Forest,train,52,0,0
+Random Forest,train,53,0,0
+Random Forest,train,54,0,0
+Random Forest,train,55,0,0
+Random Forest,train,56,0,0
+Random Forest,train,59,0,0
+Random Forest,train,60,0,0
+Random Forest,train,63,0,0
+Random Forest,train,64,0,0
+Random Forest,train,65,0,0
+Random Forest,train,67,0,0
+Random Forest,train,68,0,0
+Random Forest,train,72,0,0
+Random Forest,train,73,0,0
+Random Forest,train,74,0,0
+Random Forest,train,75,0,0
+Random Forest,train,76,0,0
+Random Forest,train,78,0,0
+Random Forest,train,79,0,0
+Random Forest,train,81,0,0
+Random Forest,train,82,0,0
+Random Forest,train,83,0,0
+Random Forest,train,85,0,0
+Random Forest,train,88,1,1
+Random Forest,train,89,1,1
+Random Forest,train,90,1,1
+Random Forest,train,91,1,1
+Random Forest,train,92,0,0
+Random Forest,train,93,0,0
+Random Forest,train,96,0,0
+Random Forest,train,97,0,0
+Random Forest,train,98,0,0
+Random Forest,train,99,0,0
+Random Forest,train,100,0,0
+Random Forest,train,101,0,0
+Random Forest,train,102,0,0
+Random Forest,train,106,0,0
+Random Forest,train,107,0,0
+Random Forest,train,108,0,0
+Random Forest,train,110,0,0
+Random Forest,train,112,0,0
+Random Forest,train,113,0,0
+Random Forest,train,114,0,0
+Random Forest,train,115,0,0
+Random Forest,train,118,0,0
+Random Forest,train,119,0,0
+Random Forest,train,122,0,0
+Random Forest,train,124,0,0
+Random Forest,train,125,0,0
+Random Forest,train,127,0,0
+Random Forest,train,128,0,0
+Random Forest,train,129,0,0
+Random Forest,train,131,0,0
+Random Forest,train,133,0,0
+Random Forest,train,134,0,0
+Random Forest,train,139,0,0
+Random Forest,train,140,0,0
+Random Forest,train,141,0,0
+Random Forest,train,143,0,0
+Random Forest,train,144,0,0
+Random Forest,train,147,0,0
+Random Forest,train,148,0,0
+Random Forest,train,149,0,0
+Random Forest,train,150,0,0
+Random Forest,train,152,0,0
+Random Forest,train,154,0,0
+Random Forest,train,155,0,0
+Random Forest,train,156,0,0
+Random Forest,train,157,0,0
+Random Forest,train,160,0,0
+Random Forest,train,161,0,0
+Random Forest,train,162,0,0
+Random Forest,train,163,0,0
+Random Forest,train,164,0,0
+Random Forest,train,165,0,0
+Random Forest,train,170,0,0
+Random Forest,train,171,0,0
+Random Forest,train,172,0,0
+Random Forest,train,173,0,0
+Random Forest,train,174,0,0
+Random Forest,train,177,0,0
+Random Forest,train,179,0,0
+Random Forest,train,180,0,0
+Random Forest,train,181,0,0
+Random Forest,train,182,0,0
+Random Forest,train,184,0,0
+Random Forest,train,185,0,0
+Random Forest,train,190,0,0
+Random Forest,train,192,0,0
+Random Forest,train,193,0,0
+Random Forest,train,194,0,0
+Random Forest,train,195,0,0
+Random Forest,train,199,0,0
+Random Forest,train,200,0,0
+Random Forest,train,201,0,0
+Random Forest,train,202,0,0
+Random Forest,train,203,0,0
+Random Forest,train,204,0,0
+Random Forest,train,205,0,0
+Random Forest,train,206,0,0
+Random Forest,train,209,0,0
+Random Forest,train,210,0,0
+Random Forest,train,211,0,0
+Random Forest,train,212,0,0
+Random Forest,train,213,0,0
+Random Forest,train,216,0,0
+Random Forest,train,217,0,0
+Random Forest,train,218,0,0
+Random Forest,train,219,0,0
+Random Forest,train,222,0,0
+Random Forest,train,223,1,0
+Random Forest,train,224,1,1
+Random Forest,train,225,1,1
+Random Forest,train,226,1,1
+Random Forest,train,227,1,1
+Random Forest,train,230,1,1
+Random Forest,train,231,1,1
+Random Forest,train,232,1,1
+Random Forest,train,233,1,1
+Random Forest,train,234,1,1
+Random Forest,train,237,1,1
+Random Forest,train,238,1,1
+Random Forest,train,239,1,1
+Random Forest,train,240,1,1
+Random Forest,train,241,1,1
+Random Forest,train,244,0,0
+Random Forest,train,245,0,0
+Random Forest,train,246,0,0
+Random Forest,train,247,0,0
+Random Forest,train,248,0,0
+Random Forest,train,251,0,0
+Random Forest,train,252,0,0
+Random Forest,train,253,0,0
+Random Forest,train,254,0,0
+Random Forest,train,255,0,0
+Random Forest,train,258,0,0
+Random Forest,train,259,0,0
+Random Forest,train,260,0,0
+Random Forest,train,261,0,0
+Random Forest,train,262,0,0
+Random Forest,train,265,0,0
+Random Forest,train,266,0,0
+Random Forest,train,267,0,0
+Random Forest,train,268,0,0
+Random Forest,train,269,0,0
+Random Forest,train,271,0,0
+Random Forest,train,273,0,0
+Random Forest,train,274,0,0
+Random Forest,train,275,0,0
+Random Forest,train,276,0,0
+Random Forest,train,277,0,0
+Random Forest,train,280,0,0
+Random Forest,train,281,0,0
+Random Forest,train,282,0,0
+Random Forest,train,283,0,0
+Random Forest,train,284,0,0
+Random Forest,train,285,0,0
+Random Forest,train,288,0,0
+Random Forest,train,289,0,0
+Random Forest,train,290,0,0
+Random Forest,train,293,0,0
+Random Forest,train,294,0,0
+Random Forest,train,295,0,0
+Random Forest,train,296,0,0
+Random Forest,train,297,0,0
+Random Forest,train,300,1,1
+Random Forest,train,301,1,1
+Random Forest,train,302,1,1
+Random Forest,train,303,1,1
+Random Forest,train,304,1,1
+Random Forest,train,305,1,1
+Random Forest,train,308,1,1
+Random Forest,train,309,1,1
+Random Forest,train,310,1,1
+Random Forest,train,311,1,1
+Random Forest,train,312,1,1
+Random Forest,train,314,1,1
+Random Forest,train,315,1,1
+Random Forest,train,317,1,1
+Random Forest,train,318,1,1
+Random Forest,train,319,1,1
+Random Forest,train,321,1,1
+Random Forest,train,322,1,1
+Random Forest,train,324,1,1
+Random Forest,train,325,1,1
+Random Forest,train,326,1,1
+Random Forest,train,328,1,1
+Random Forest,train,329,1,1
+Random Forest,train,331,1,1
+Random Forest,train,332,1,1
+Random Forest,train,333,1,1
+Random Forest,train,335,1,1
+Random Forest,train,336,1,1
+Random Forest,train,337,1,1
+Random Forest,train,338,1,1
+Random Forest,train,340,0,0
+Random Forest,train,343,1,1
+Random Forest,train,344,1,1
+Random Forest,train,345,1,1
+Random Forest,train,346,1,1
+Random Forest,train,347,1,1
+Random Forest,train,348,1,1
+Random Forest,train,349,1,1
+Random Forest,train,352,1,1
+Random Forest,train,353,1,1
+Random Forest,train,354,1,1
+Random Forest,train,355,0,0
+Random Forest,train,356,1,1
+Random Forest,train,357,1,1
+Random Forest,train,358,1,1
+Random Forest,train,361,1,1
+Random Forest,train,362,1,1
+Random Forest,train,363,1,1
+Random Forest,train,365,1,1
+Random Forest,train,367,1,1
+Random Forest,train,368,1,1
+Random Forest,train,371,1,1
+Random Forest,train,372,1,1
+Random Forest,train,373,1,1
+Random Forest,train,374,1,1
+Random Forest,train,375,1,1
+Random Forest,train,376,1,1
+Random Forest,train,377,1,1
+Random Forest,train,378,1,1
+Random Forest,train,381,1,1
+Random Forest,train,382,1,1
+Random Forest,validacion,4,0,0
+Random Forest,validacion,10,0,0
+Random Forest,validacion,18,0,0
+Random Forest,validacion,23,0,0
+Random Forest,validacion,31,0,0
+Random Forest,validacion,41,0,0
+Random Forest,validacion,50,0,0
+Random Forest,validacion,58,0,0
+Random Forest,validacion,62,0,0
+Random Forest,validacion,71,0,0
+Random Forest,validacion,84,0,1
+Random Forest,validacion,87,1,0
+Random Forest,validacion,95,0,0
+Random Forest,validacion,104,0,0
+Random Forest,validacion,111,0,0
+Random Forest,validacion,117,0,0
+Random Forest,validacion,130,0,0
+Random Forest,validacion,136,0,0
+Random Forest,validacion,142,0,0
+Random Forest,validacion,146,0,0
+Random Forest,validacion,153,0,0
+Random Forest,validacion,159,0,0
+Random Forest,validacion,169,0,0
+Random Forest,validacion,176,0,0
+Random Forest,validacion,188,0,0
+Random Forest,validacion,191,0,0
+Random Forest,validacion,198,0,0
+Random Forest,validacion,208,0,0
+Random Forest,validacion,215,0,0
+Random Forest,validacion,221,0,0
+Random Forest,validacion,229,1,1
+Random Forest,validacion,236,1,1
+Random Forest,validacion,243,0,0
+Random Forest,validacion,250,0,0
+Random Forest,validacion,257,0,0
+Random Forest,validacion,264,0,0
+Random Forest,validacion,272,0,0
+Random Forest,validacion,279,0,0
+Random Forest,validacion,287,0,0
+Random Forest,validacion,291,0,1
+Random Forest,validacion,299,1,0
+Random Forest,validacion,307,1,1
+Random Forest,validacion,316,1,1
+Random Forest,validacion,323,1,1
+Random Forest,validacion,330,1,1
+Random Forest,validacion,339,0,0
+Random Forest,validacion,342,1,1
+Random Forest,validacion,351,1,0
+Random Forest,validacion,360,1,1
+Random Forest,validacion,366,1,1
+Random Forest,validacion,370,1,1
+Random Forest,validacion,380,1,1
+Gradient Boosting,train,0,0,0
+Gradient Boosting,train,1,0,0
+Gradient Boosting,train,2,0,0
+Gradient Boosting,train,5,0,0
+Gradient Boosting,train,6,0,0
+Gradient Boosting,train,7,0,0
+Gradient Boosting,train,8,0,0
+Gradient Boosting,train,11,0,0
+Gradient Boosting,train,12,0,0
+Gradient Boosting,train,13,0,0
+Gradient Boosting,train,14,0,0
+Gradient Boosting,train,15,0,0
+Gradient Boosting,train,16,0,0
+Gradient Boosting,train,19,0,0
+Gradient Boosting,train,20,0,0
+Gradient Boosting,train,21,0,0
+Gradient Boosting,train,22,0,0
+Gradient Boosting,train,24,0,0
+Gradient Boosting,train,26,0,0
+Gradient Boosting,train,27,0,0
+Gradient Boosting,train,28,0,0
+Gradient Boosting,train,29,0,0
+Gradient Boosting,train,33,0,0
+Gradient Boosting,train,34,0,0
+Gradient Boosting,train,35,0,0
+Gradient Boosting,train,36,0,0
+Gradient Boosting,train,37,0,0
+Gradient Boosting,train,42,0,0
+Gradient Boosting,train,43,0,0
+Gradient Boosting,train,44,0,0
+Gradient Boosting,train,45,0,0
+Gradient Boosting,train,46,0,0
+Gradient Boosting,train,47,0,0
+Gradient Boosting,train,48,1,1
+Gradient Boosting,train,51,0,0
+Gradient Boosting,train,52,0,0
+Gradient Boosting,train,53,0,0
+Gradient Boosting,train,54,0,0
+Gradient Boosting,train,55,0,0
+Gradient Boosting,train,56,0,0
+Gradient Boosting,train,59,0,0
+Gradient Boosting,train,60,0,0
+Gradient Boosting,train,63,0,0
+Gradient Boosting,train,64,0,0
+Gradient Boosting,train,65,0,0
+Gradient Boosting,train,67,0,0
+Gradient Boosting,train,68,0,0
+Gradient Boosting,train,72,0,0
+Gradient Boosting,train,73,0,0
+Gradient Boosting,train,74,0,0
+Gradient Boosting,train,75,0,0
+Gradient Boosting,train,76,0,0
+Gradient Boosting,train,78,0,0
+Gradient Boosting,train,79,0,0
+Gradient Boosting,train,81,0,0
+Gradient Boosting,train,82,0,0
+Gradient Boosting,train,83,0,0
+Gradient Boosting,train,85,0,0
+Gradient Boosting,train,88,1,1
+Gradient Boosting,train,89,1,1
+Gradient Boosting,train,90,1,1
+Gradient Boosting,train,91,1,1
+Gradient Boosting,train,92,0,0
+Gradient Boosting,train,93,0,0
+Gradient Boosting,train,96,0,0
+Gradient Boosting,train,97,0,0
+Gradient Boosting,train,98,0,0
+Gradient Boosting,train,99,0,0
+Gradient Boosting,train,100,0,0
+Gradient Boosting,train,101,0,0
+Gradient Boosting,train,102,0,0
+Gradient Boosting,train,106,0,0
+Gradient Boosting,train,107,0,0
+Gradient Boosting,train,108,0,0
+Gradient Boosting,train,110,0,0
+Gradient Boosting,train,112,0,0
+Gradient Boosting,train,113,0,0
+Gradient Boosting,train,114,0,0
+Gradient Boosting,train,115,0,0
+Gradient Boosting,train,118,0,0
+Gradient Boosting,train,119,0,0
+Gradient Boosting,train,122,0,0
+Gradient Boosting,train,124,0,0
+Gradient Boosting,train,125,0,0
+Gradient Boosting,train,127,0,0
+Gradient Boosting,train,128,0,0
+Gradient Boosting,train,129,0,0
+Gradient Boosting,train,131,0,0
+Gradient Boosting,train,133,0,0
+Gradient Boosting,train,134,0,0
+Gradient Boosting,train,139,0,0
+Gradient Boosting,train,140,0,0
+Gradient Boosting,train,141,0,0
+Gradient Boosting,train,143,0,0
+Gradient Boosting,train,144,0,0
+Gradient Boosting,train,147,0,0
+Gradient Boosting,train,148,0,0
+Gradient Boosting,train,149,0,0
+Gradient Boosting,train,150,0,0
+Gradient Boosting,train,152,0,0
+Gradient Boosting,train,154,0,0
+Gradient Boosting,train,155,0,0
+Gradient Boosting,train,156,0,0
+Gradient Boosting,train,157,0,0
+Gradient Boosting,train,160,0,0
+Gradient Boosting,train,161,0,0
+Gradient Boosting,train,162,0,0
+Gradient Boosting,train,163,0,0
+Gradient Boosting,train,164,0,0
+Gradient Boosting,train,165,0,0
+Gradient Boosting,train,170,0,0
+Gradient Boosting,train,171,0,0
+Gradient Boosting,train,172,0,0
+Gradient Boosting,train,173,0,0
+Gradient Boosting,train,174,0,0
+Gradient Boosting,train,177,0,0
+Gradient Boosting,train,179,0,0
+Gradient Boosting,train,180,0,0
+Gradient Boosting,train,181,0,0
+Gradient Boosting,train,182,0,0
+Gradient Boosting,train,184,0,0
+Gradient Boosting,train,185,0,0
+Gradient Boosting,train,190,0,0
+Gradient Boosting,train,192,0,0
+Gradient Boosting,train,193,0,0
+Gradient Boosting,train,194,0,0
+Gradient Boosting,train,195,0,0
+Gradient Boosting,train,199,0,0
+Gradient Boosting,train,200,0,0
+Gradient Boosting,train,201,0,0
+Gradient Boosting,train,202,0,0
+Gradient Boosting,train,203,0,0
+Gradient Boosting,train,204,0,0
+Gradient Boosting,train,205,0,0
+Gradient Boosting,train,206,0,0
+Gradient Boosting,train,209,0,0
+Gradient Boosting,train,210,0,0
+Gradient Boosting,train,211,0,0
+Gradient Boosting,train,212,0,0
+Gradient Boosting,train,213,0,0
+Gradient Boosting,train,216,0,0
+Gradient Boosting,train,217,0,0
+Gradient Boosting,train,218,0,0
+Gradient Boosting,train,219,0,0
+Gradient Boosting,train,222,0,0
+Gradient Boosting,train,223,1,0
+Gradient Boosting,train,224,1,1
+Gradient Boosting,train,225,1,1
+Gradient Boosting,train,226,1,1
+Gradient Boosting,train,227,1,1
+Gradient Boosting,train,230,1,1
+Gradient Boosting,train,231,1,1
+Gradient Boosting,train,232,1,1
+Gradient Boosting,train,233,1,1
+Gradient Boosting,train,234,1,1
+Gradient Boosting,train,237,1,1
+Gradient Boosting,train,238,1,1
+Gradient Boosting,train,239,1,1
+Gradient Boosting,train,240,1,1
+Gradient Boosting,train,241,1,1
+Gradient Boosting,train,244,0,0
+Gradient Boosting,train,245,0,1
+Gradient Boosting,train,246,0,0
+Gradient Boosting,train,247,0,0
+Gradient Boosting,train,248,0,0
+Gradient Boosting,train,251,0,0
+Gradient Boosting,train,252,0,0
+Gradient Boosting,train,253,0,0
+Gradient Boosting,train,254,0,0
+Gradient Boosting,train,255,0,0
+Gradient Boosting,train,258,0,0
+Gradient Boosting,train,259,0,0
+Gradient Boosting,train,260,0,0
+Gradient Boosting,train,261,0,0
+Gradient Boosting,train,262,0,0
+Gradient Boosting,train,265,0,0
+Gradient Boosting,train,266,0,0
+Gradient Boosting,train,267,0,0
+Gradient Boosting,train,268,0,0
+Gradient Boosting,train,269,0,0
+Gradient Boosting,train,271,0,0
+Gradient Boosting,train,273,0,0
+Gradient Boosting,train,274,0,0
+Gradient Boosting,train,275,0,0
+Gradient Boosting,train,276,0,0
+Gradient Boosting,train,277,0,0
+Gradient Boosting,train,280,0,0
+Gradient Boosting,train,281,0,0
+Gradient Boosting,train,282,0,0
+Gradient Boosting,train,283,0,0
+Gradient Boosting,train,284,0,0
+Gradient Boosting,train,285,0,0
+Gradient Boosting,train,288,0,0
+Gradient Boosting,train,289,0,0
+Gradient Boosting,train,290,0,1
+Gradient Boosting,train,293,0,0
+Gradient Boosting,train,294,0,0
+Gradient Boosting,train,295,0,0
+Gradient Boosting,train,296,0,0
+Gradient Boosting,train,297,0,0
+Gradient Boosting,train,300,1,1
+Gradient Boosting,train,301,1,1
+Gradient Boosting,train,302,1,1
+Gradient Boosting,train,303,1,1
+Gradient Boosting,train,304,1,1
+Gradient Boosting,train,305,1,1
+Gradient Boosting,train,308,1,1
+Gradient Boosting,train,309,1,1
+Gradient Boosting,train,310,1,1
+Gradient Boosting,train,311,1,1
+Gradient Boosting,train,312,1,1
+Gradient Boosting,train,314,1,1
+Gradient Boosting,train,315,1,1
+Gradient Boosting,train,317,1,1
+Gradient Boosting,train,318,1,1
+Gradient Boosting,train,319,1,1
+Gradient Boosting,train,321,1,1
+Gradient Boosting,train,322,1,1
+Gradient Boosting,train,324,1,1
+Gradient Boosting,train,325,1,1
+Gradient Boosting,train,326,1,1
+Gradient Boosting,train,328,1,1
+Gradient Boosting,train,329,1,1
+Gradient Boosting,train,331,1,1
+Gradient Boosting,train,332,1,1
+Gradient Boosting,train,333,1,1
+Gradient Boosting,train,335,1,1
+Gradient Boosting,train,336,1,1
+Gradient Boosting,train,337,1,1
+Gradient Boosting,train,338,1,1
+Gradient Boosting,train,340,0,0
+Gradient Boosting,train,343,1,1
+Gradient Boosting,train,344,1,1
+Gradient Boosting,train,345,1,1
+Gradient Boosting,train,346,1,1
+Gradient Boosting,train,347,1,1
+Gradient Boosting,train,348,1,1
+Gradient Boosting,train,349,1,1
+Gradient Boosting,train,352,1,1
+Gradient Boosting,train,353,1,1
+Gradient Boosting,train,354,1,1
+Gradient Boosting,train,355,0,0
+Gradient Boosting,train,356,1,1
+Gradient Boosting,train,357,1,1
+Gradient Boosting,train,358,1,1
+Gradient Boosting,train,361,1,1
+Gradient Boosting,train,362,1,1
+Gradient Boosting,train,363,1,1
+Gradient Boosting,train,365,1,1
+Gradient Boosting,train,367,1,1
+Gradient Boosting,train,368,1,1
+Gradient Boosting,train,371,1,1
+Gradient Boosting,train,372,1,1
+Gradient Boosting,train,373,1,1
+Gradient Boosting,train,374,1,1
+Gradient Boosting,train,375,1,1
+Gradient Boosting,train,376,1,1
+Gradient Boosting,train,377,1,1
+Gradient Boosting,train,378,1,1
+Gradient Boosting,train,381,1,1
+Gradient Boosting,train,382,1,1
+Gradient Boosting,validacion,4,0,0
+Gradient Boosting,validacion,10,0,0
+Gradient Boosting,validacion,18,0,0
+Gradient Boosting,validacion,23,0,0
+Gradient Boosting,validacion,31,0,0
+Gradient Boosting,validacion,41,0,0
+Gradient Boosting,validacion,50,0,0
+Gradient Boosting,validacion,58,0,0
+Gradient Boosting,validacion,62,0,0
+Gradient Boosting,validacion,71,0,0
+Gradient Boosting,validacion,84,0,0
+Gradient Boosting,validacion,87,1,0
+Gradient Boosting,validacion,95,0,0
+Gradient Boosting,validacion,104,0,0
+Gradient Boosting,validacion,111,0,0
+Gradient Boosting,validacion,117,0,0
+Gradient Boosting,validacion,130,0,0
+Gradient Boosting,validacion,136,0,0
+Gradient Boosting,validacion,142,0,0
+Gradient Boosting,validacion,146,0,0
+Gradient Boosting,validacion,153,0,0
+Gradient Boosting,validacion,159,0,0
+Gradient Boosting,validacion,169,0,0
+Gradient Boosting,validacion,176,0,0
+Gradient Boosting,validacion,188,0,0
+Gradient Boosting,validacion,191,0,0
+Gradient Boosting,validacion,198,0,0
+Gradient Boosting,validacion,208,0,0
+Gradient Boosting,validacion,215,0,0
+Gradient Boosting,validacion,221,0,0
+Gradient Boosting,validacion,229,1,1
+Gradient Boosting,validacion,236,1,1
+Gradient Boosting,validacion,243,0,0
+Gradient Boosting,validacion,250,0,0
+Gradient Boosting,validacion,257,0,0
+Gradient Boosting,validacion,264,0,0
+Gradient Boosting,validacion,272,0,0
+Gradient Boosting,validacion,279,0,0
+Gradient Boosting,validacion,287,0,0
+Gradient Boosting,validacion,291,0,1
+Gradient Boosting,validacion,299,1,0
+Gradient Boosting,validacion,307,1,1
+Gradient Boosting,validacion,316,1,1
+Gradient Boosting,validacion,323,1,1
+Gradient Boosting,validacion,330,1,1
+Gradient Boosting,validacion,339,0,1
+Gradient Boosting,validacion,342,1,1
+Gradient Boosting,validacion,351,1,0
+Gradient Boosting,validacion,360,1,1
+Gradient Boosting,validacion,366,1,1
+Gradient Boosting,validacion,370,1,1
+Gradient Boosting,validacion,380,1,1
+Dummy mayoritario,train,0,0,0
+Dummy mayoritario,train,1,0,0
+Dummy mayoritario,train,2,0,0
+Dummy mayoritario,train,5,0,0
+Dummy mayoritario,train,6,0,0
+Dummy mayoritario,train,7,0,0
+Dummy mayoritario,train,8,0,0
+Dummy mayoritario,train,11,0,0
+Dummy mayoritario,train,12,0,0
+Dummy mayoritario,train,13,0,0
+Dummy mayoritario,train,14,0,0
+Dummy mayoritario,train,15,0,0
+Dummy mayoritario,train,16,0,0
+Dummy mayoritario,train,19,0,0
+Dummy mayoritario,train,20,0,0
+Dummy mayoritario,train,21,0,0
+Dummy mayoritario,train,22,0,0
+Dummy mayoritario,train,24,0,0
+Dummy mayoritario,train,26,0,0
+Dummy mayoritario,train,27,0,0
+Dummy mayoritario,train,28,0,0
+Dummy mayoritario,train,29,0,0
+Dummy mayoritario,train,33,0,0
+Dummy mayoritario,train,34,0,0
+Dummy mayoritario,train,35,0,0
+Dummy mayoritario,train,36,0,0
+Dummy mayoritario,train,37,0,0
+Dummy mayoritario,train,42,0,0
+Dummy mayoritario,train,43,0,0
+Dummy mayoritario,train,44,0,0
+Dummy mayoritario,train,45,0,0
+Dummy mayoritario,train,46,0,0
+Dummy mayoritario,train,47,0,0
+Dummy mayoritario,train,48,1,0
+Dummy mayoritario,train,51,0,0
+Dummy mayoritario,train,52,0,0
+Dummy mayoritario,train,53,0,0
+Dummy mayoritario,train,54,0,0
+Dummy mayoritario,train,55,0,0
+Dummy mayoritario,train,56,0,0
+Dummy mayoritario,train,59,0,0
+Dummy mayoritario,train,60,0,0
+Dummy mayoritario,train,63,0,0
+Dummy mayoritario,train,64,0,0
+Dummy mayoritario,train,65,0,0
+Dummy mayoritario,train,67,0,0
+Dummy mayoritario,train,68,0,0
+Dummy mayoritario,train,72,0,0
+Dummy mayoritario,train,73,0,0
+Dummy mayoritario,train,74,0,0
+Dummy mayoritario,train,75,0,0
+Dummy mayoritario,train,76,0,0
+Dummy mayoritario,train,78,0,0
+Dummy mayoritario,train,79,0,0
+Dummy mayoritario,train,81,0,0
+Dummy mayoritario,train,82,0,0
+Dummy mayoritario,train,83,0,0
+Dummy mayoritario,train,85,0,0
+Dummy mayoritario,train,88,1,0
+Dummy mayoritario,train,89,1,0
+Dummy mayoritario,train,90,1,0
+Dummy mayoritario,train,91,1,0
+Dummy mayoritario,train,92,0,0
+Dummy mayoritario,train,93,0,0
+Dummy mayoritario,train,96,0,0
+Dummy mayoritario,train,97,0,0
+Dummy mayoritario,train,98,0,0
+Dummy mayoritario,train,99,0,0
+Dummy mayoritario,train,100,0,0
+Dummy mayoritario,train,101,0,0
+Dummy mayoritario,train,102,0,0
+Dummy mayoritario,train,106,0,0
+Dummy mayoritario,train,107,0,0
+Dummy mayoritario,train,108,0,0
+Dummy mayoritario,train,110,0,0
+Dummy mayoritario,train,112,0,0
+Dummy mayoritario,train,113,0,0
+Dummy mayoritario,train,114,0,0
+Dummy mayoritario,train,115,0,0
+Dummy mayoritario,train,118,0,0
+Dummy mayoritario,train,119,0,0
+Dummy mayoritario,train,122,0,0
+Dummy mayoritario,train,124,0,0
+Dummy mayoritario,train,125,0,0
+Dummy mayoritario,train,127,0,0
+Dummy mayoritario,train,128,0,0
+Dummy mayoritario,train,129,0,0
+Dummy mayoritario,train,131,0,0
+Dummy mayoritario,train,133,0,0
+Dummy mayoritario,train,134,0,0
+Dummy mayoritario,train,139,0,0
+Dummy mayoritario,train,140,0,0
+Dummy mayoritario,train,141,0,0
+Dummy mayoritario,train,143,0,0
+Dummy mayoritario,train,144,0,0
+Dummy mayoritario,train,147,0,0
+Dummy mayoritario,train,148,0,0
+Dummy mayoritario,train,149,0,0
+Dummy mayoritario,train,150,0,0
+Dummy mayoritario,train,152,0,0
+Dummy mayoritario,train,154,0,0
+Dummy mayoritario,train,155,0,0
+Dummy mayoritario,train,156,0,0
+Dummy mayoritario,train,157,0,0
+Dummy mayoritario,train,160,0,0
+Dummy mayoritario,train,161,0,0
+Dummy mayoritario,train,162,0,0
+Dummy mayoritario,train,163,0,0
+Dummy mayoritario,train,164,0,0
+Dummy mayoritario,train,165,0,0
+Dummy mayoritario,train,170,0,0
+Dummy mayoritario,train,171,0,0
+Dummy mayoritario,train,172,0,0
+Dummy mayoritario,train,173,0,0
+Dummy mayoritario,train,174,0,0
+Dummy mayoritario,train,177,0,0
+Dummy mayoritario,train,179,0,0
+Dummy mayoritario,train,180,0,0
+Dummy mayoritario,train,181,0,0
+Dummy mayoritario,train,182,0,0
+Dummy mayoritario,train,184,0,0
+Dummy mayoritario,train,185,0,0
+Dummy mayoritario,train,190,0,0
+Dummy mayoritario,train,192,0,0
+Dummy mayoritario,train,193,0,0
+Dummy mayoritario,train,194,0,0
+Dummy mayoritario,train,195,0,0
+Dummy mayoritario,train,199,0,0
+Dummy mayoritario,train,200,0,0
+Dummy mayoritario,train,201,0,0
+Dummy mayoritario,train,202,0,0
+Dummy mayoritario,train,203,0,0
+Dummy mayoritario,train,204,0,0
+Dummy mayoritario,train,205,0,0
+Dummy mayoritario,train,206,0,0
+Dummy mayoritario,train,209,0,0
+Dummy mayoritario,train,210,0,0
+Dummy mayoritario,train,211,0,0
+Dummy mayoritario,train,212,0,0
+Dummy mayoritario,train,213,0,0
+Dummy mayoritario,train,216,0,0
+Dummy mayoritario,train,217,0,0
+Dummy mayoritario,train,218,0,0
+Dummy mayoritario,train,219,0,0
+Dummy mayoritario,train,222,0,0
+Dummy mayoritario,train,223,1,0
+Dummy mayoritario,train,224,1,0
+Dummy mayoritario,train,225,1,0
+Dummy mayoritario,train,226,1,0
+Dummy mayoritario,train,227,1,0
+Dummy mayoritario,train,230,1,0
+Dummy mayoritario,train,231,1,0
+Dummy mayoritario,train,232,1,0
+Dummy mayoritario,train,233,1,0
+Dummy mayoritario,train,234,1,0
+Dummy mayoritario,train,237,1,0
+Dummy mayoritario,train,238,1,0
+Dummy mayoritario,train,239,1,0
+Dummy mayoritario,train,240,1,0
+Dummy mayoritario,train,241,1,0
+Dummy mayoritario,train,244,0,0
+Dummy mayoritario,train,245,0,0
+Dummy mayoritario,train,246,0,0
+Dummy mayoritario,train,247,0,0
+Dummy mayoritario,train,248,0,0
+Dummy mayoritario,train,251,0,0
+Dummy mayoritario,train,252,0,0
+Dummy mayoritario,train,253,0,0
+Dummy mayoritario,train,254,0,0
+Dummy mayoritario,train,255,0,0
+Dummy mayoritario,train,258,0,0
+Dummy mayoritario,train,259,0,0
+Dummy mayoritario,train,260,0,0
+Dummy mayoritario,train,261,0,0
+Dummy mayoritario,train,262,0,0
+Dummy mayoritario,train,265,0,0
+Dummy mayoritario,train,266,0,0
+Dummy mayoritario,train,267,0,0
+Dummy mayoritario,train,268,0,0
+Dummy mayoritario,train,269,0,0
+Dummy mayoritario,train,271,0,0
+Dummy mayoritario,train,273,0,0
+Dummy mayoritario,train,274,0,0
+Dummy mayoritario,train,275,0,0
+Dummy mayoritario,train,276,0,0
+Dummy mayoritario,train,277,0,0
+Dummy mayoritario,train,280,0,0
+Dummy mayoritario,train,281,0,0
+Dummy mayoritario,train,282,0,0
+Dummy mayoritario,train,283,0,0
+Dummy mayoritario,train,284,0,0
+Dummy mayoritario,train,285,0,0
+Dummy mayoritario,train,288,0,0
+Dummy mayoritario,train,289,0,0
+Dummy mayoritario,train,290,0,0
+Dummy mayoritario,train,293,0,0
+Dummy mayoritario,train,294,0,0
+Dummy mayoritario,train,295,0,0
+Dummy mayoritario,train,296,0,0
+Dummy mayoritario,train,297,0,0
+Dummy mayoritario,train,300,1,0
+Dummy mayoritario,train,301,1,0
+Dummy mayoritario,train,302,1,0
+Dummy mayoritario,train,303,1,0
+Dummy mayoritario,train,304,1,0
+Dummy mayoritario,train,305,1,0
+Dummy mayoritario,train,308,1,0
+Dummy mayoritario,train,309,1,0
+Dummy mayoritario,train,310,1,0
+Dummy mayoritario,train,311,1,0
+Dummy mayoritario,train,312,1,0
+Dummy mayoritario,train,314,1,0
+Dummy mayoritario,train,315,1,0
+Dummy mayoritario,train,317,1,0
+Dummy mayoritario,train,318,1,0
+Dummy mayoritario,train,319,1,0
+Dummy mayoritario,train,321,1,0
+Dummy mayoritario,train,322,1,0
+Dummy mayoritario,train,324,1,0
+Dummy mayoritario,train,325,1,0
+Dummy mayoritario,train,326,1,0
+Dummy mayoritario,train,328,1,0
+Dummy mayoritario,train,329,1,0
+Dummy mayoritario,train,331,1,0
+Dummy mayoritario,train,332,1,0
+Dummy mayoritario,train,333,1,0
+Dummy mayoritario,train,335,1,0
+Dummy mayoritario,train,336,1,0
+Dummy mayoritario,train,337,1,0
+Dummy mayoritario,train,338,1,0
+Dummy mayoritario,train,340,0,0
+Dummy mayoritario,train,343,1,0
+Dummy mayoritario,train,344,1,0
+Dummy mayoritario,train,345,1,0
+Dummy mayoritario,train,346,1,0
+Dummy mayoritario,train,347,1,0
+Dummy mayoritario,train,348,1,0
+Dummy mayoritario,train,349,1,0
+Dummy mayoritario,train,352,1,0
+Dummy mayoritario,train,353,1,0
+Dummy mayoritario,train,354,1,0
+Dummy mayoritario,train,355,0,0
+Dummy mayoritario,train,356,1,0
+Dummy mayoritario,train,357,1,0
+Dummy mayoritario,train,358,1,0
+Dummy mayoritario,train,361,1,0
+Dummy mayoritario,train,362,1,0
+Dummy mayoritario,train,363,1,0
+Dummy mayoritario,train,365,1,0
+Dummy mayoritario,train,367,1,0
+Dummy mayoritario,train,368,1,0
+Dummy mayoritario,train,371,1,0
+Dummy mayoritario,train,372,1,0
+Dummy mayoritario,train,373,1,0
+Dummy mayoritario,train,374,1,0
+Dummy mayoritario,train,375,1,0
+Dummy mayoritario,train,376,1,0
+Dummy mayoritario,train,377,1,0
+Dummy mayoritario,train,378,1,0
+Dummy mayoritario,train,381,1,0
+Dummy mayoritario,train,382,1,0
+Dummy mayoritario,validacion,4,0,0
+Dummy mayoritario,validacion,10,0,0
+Dummy mayoritario,validacion,18,0,0
+Dummy mayoritario,validacion,23,0,0
+Dummy mayoritario,validacion,31,0,0
+Dummy mayoritario,validacion,41,0,0
+Dummy mayoritario,validacion,50,0,0
+Dummy mayoritario,validacion,58,0,0
+Dummy mayoritario,validacion,62,0,0
+Dummy mayoritario,validacion,71,0,0
+Dummy mayoritario,validacion,84,0,0
+Dummy mayoritario,validacion,87,1,0
+Dummy mayoritario,validacion,95,0,0
+Dummy mayoritario,validacion,104,0,0
+Dummy mayoritario,validacion,111,0,0
+Dummy mayoritario,validacion,117,0,0
+Dummy mayoritario,validacion,130,0,0
+Dummy mayoritario,validacion,136,0,0
+Dummy mayoritario,validacion,142,0,0
+Dummy mayoritario,validacion,146,0,0
+Dummy mayoritario,validacion,153,0,0
+Dummy mayoritario,validacion,159,0,0
+Dummy mayoritario,validacion,169,0,0
+Dummy mayoritario,validacion,176,0,0
+Dummy mayoritario,validacion,188,0,0
+Dummy mayoritario,validacion,191,0,0
+Dummy mayoritario,validacion,198,0,0
+Dummy mayoritario,validacion,208,0,0
+Dummy mayoritario,validacion,215,0,0
+Dummy mayoritario,validacion,221,0,0
+Dummy mayoritario,validacion,229,1,0
+Dummy mayoritario,validacion,236,1,0
+Dummy mayoritario,validacion,243,0,0
+Dummy mayoritario,validacion,250,0,0
+Dummy mayoritario,validacion,257,0,0
+Dummy mayoritario,validacion,264,0,0
+Dummy mayoritario,validacion,272,0,0
+Dummy mayoritario,validacion,279,0,0
+Dummy mayoritario,validacion,287,0,0
+Dummy mayoritario,validacion,291,0,0
+Dummy mayoritario,validacion,299,1,0
+Dummy mayoritario,validacion,307,1,0
+Dummy mayoritario,validacion,316,1,0
+Dummy mayoritario,validacion,323,1,0
+Dummy mayoritario,validacion,330,1,0
+Dummy mayoritario,validacion,339,0,0
+Dummy mayoritario,validacion,342,1,0
+Dummy mayoritario,validacion,351,1,0
+Dummy mayoritario,validacion,360,1,0
+Dummy mayoritario,validacion,366,1,0
+Dummy mayoritario,validacion,370,1,0
+Dummy mayoritario,validacion,380,1,0
+KNN,test,3,0,0
+KNN,test,9,0,0
+KNN,test,17,0,0
+KNN,test,25,0,0
+KNN,test,30,0,0
+KNN,test,39,0,0
+KNN,test,49,0,0
+KNN,test,57,0,0
+KNN,test,61,0,0
+KNN,test,70,0,0
+KNN,test,80,0,0
+KNN,test,86,0,0
+KNN,test,94,0,0
+KNN,test,103,0,0
+KNN,test,105,0,0
+KNN,test,109,0,0
+KNN,test,116,0,0
+KNN,test,126,0,0
+KNN,test,135,0,0
+KNN,test,145,0,0
+KNN,test,151,0,0
+KNN,test,158,0,0
+KNN,test,167,0,0
+KNN,test,175,0,0
+KNN,test,186,0,0
+KNN,test,197,0,0
+KNN,test,207,0,0
+KNN,test,214,0,1
+KNN,test,220,0,0
+KNN,test,228,1,0
+KNN,test,235,1,0
+KNN,test,242,1,0
+KNN,test,249,0,0
+KNN,test,256,0,0
+KNN,test,263,0,0
+KNN,test,270,0,0
+KNN,test,278,0,0
+KNN,test,286,0,1
+KNN,test,292,0,0
+KNN,test,298,1,0
+KNN,test,306,1,1
+KNN,test,313,1,1
+KNN,test,320,1,1
+KNN,test,327,1,0
+KNN,test,334,1,1
+KNN,test,341,1,1
+KNN,test,350,1,1
+KNN,test,359,1,1
+KNN,test,364,1,1
+KNN,test,369,1,1
+KNN,test,379,1,1
+Árbol de decisión,test,3,0,0
+Árbol de decisión,test,9,0,0
+Árbol de decisión,test,17,0,0
+Árbol de decisión,test,25,0,0
+Árbol de decisión,test,30,0,0
+Árbol de decisión,test,39,0,0
+Árbol de decisión,test,49,0,0
+Árbol de decisión,test,57,0,0
+Árbol de decisión,test,61,0,0
+Árbol de decisión,test,70,0,0
+Árbol de decisión,test,80,0,0
+Árbol de decisión,test,86,0,0
+Árbol de decisión,test,94,0,0
+Árbol de decisión,test,103,0,0
+Árbol de decisión,test,105,0,0
+Árbol de decisión,test,109,0,0
+Árbol de decisión,test,116,0,0
+Árbol de decisión,test,126,0,0
+Árbol de decisión,test,135,0,1
+Árbol de decisión,test,145,0,0
+Árbol de decisión,test,151,0,1
+Árbol de decisión,test,158,0,0
+Árbol de decisión,test,167,0,0
+Árbol de decisión,test,175,0,0
+Árbol de decisión,test,186,0,0
+Árbol de decisión,test,197,0,0
+Árbol de decisión,test,207,0,0
+Árbol de decisión,test,214,0,1
+Árbol de decisión,test,220,0,0
+Árbol de decisión,test,228,1,1
+Árbol de decisión,test,235,1,0
+Árbol de decisión,test,242,1,0
+Árbol de decisión,test,249,0,0
+Árbol de decisión,test,256,0,0
+Árbol de decisión,test,263,0,0
+Árbol de decisión,test,270,0,0
+Árbol de decisión,test,278,0,0
+Árbol de decisión,test,286,0,1
+Árbol de decisión,test,292,0,0
+Árbol de decisión,test,298,1,0
+Árbol de decisión,test,306,1,1
+Árbol de decisión,test,313,1,1
+Árbol de decisión,test,320,1,1
+Árbol de decisión,test,327,1,0
+Árbol de decisión,test,334,1,1
+Árbol de decisión,test,341,1,1
+Árbol de decisión,test,350,1,1
+Árbol de decisión,test,359,1,1
+Árbol de decisión,test,364,1,1
+Árbol de decisión,test,369,1,1
+Árbol de decisión,test,379,1,1
+Random Forest,test,3,0,0
+Random Forest,test,9,0,0
+Random Forest,test,17,0,0
+Random Forest,test,25,0,0
+Random Forest,test,30,0,0
+Random Forest,test,39,0,0
+Random Forest,test,49,0,0
+Random Forest,test,57,0,0
+Random Forest,test,61,0,0
+Random Forest,test,70,0,0
+Random Forest,test,80,0,0
+Random Forest,test,86,0,0
+Random Forest,test,94,0,0
+Random Forest,test,103,0,0
+Random Forest,test,105,0,0
+Random Forest,test,109,0,0
+Random Forest,test,116,0,0
+Random Forest,test,126,0,0
+Random Forest,test,135,0,0
+Random Forest,test,145,0,0
+Random Forest,test,151,0,0
+Random Forest,test,158,0,0
+Random Forest,test,167,0,0
+Random Forest,test,175,0,0
+Random Forest,test,186,0,0
+Random Forest,test,197,0,0
+Random Forest,test,207,0,0
+Random Forest,test,214,0,1
+Random Forest,test,220,0,0
+Random Forest,test,228,1,1
+Random Forest,test,235,1,1
+Random Forest,test,242,1,1
+Random Forest,test,249,0,0
+Random Forest,test,256,0,0
+Random Forest,test,263,0,0
+Random Forest,test,270,0,0
+Random Forest,test,278,0,0
+Random Forest,test,286,0,1
+Random Forest,test,292,0,0
+Random Forest,test,298,1,0
+Random Forest,test,306,1,1
+Random Forest,test,313,1,1
+Random Forest,test,320,1,1
+Random Forest,test,327,1,0
+Random Forest,test,334,1,1
+Random Forest,test,341,1,1
+Random Forest,test,350,1,1
+Random Forest,test,359,1,1
+Random Forest,test,364,1,1
+Random Forest,test,369,1,1
+Random Forest,test,379,1,1
+Gradient Boosting,test,3,0,0
+Gradient Boosting,test,9,0,0
+Gradient Boosting,test,17,0,0
+Gradient Boosting,test,25,0,0
+Gradient Boosting,test,30,0,0
+Gradient Boosting,test,39,0,0
+Gradient Boosting,test,49,0,0
+Gradient Boosting,test,57,0,0
+Gradient Boosting,test,61,0,0
+Gradient Boosting,test,70,0,0
+Gradient Boosting,test,80,0,0
+Gradient Boosting,test,86,0,0
+Gradient Boosting,test,94,0,0
+Gradient Boosting,test,103,0,0
+Gradient Boosting,test,105,0,0
+Gradient Boosting,test,109,0,0
+Gradient Boosting,test,116,0,0
+Gradient Boosting,test,126,0,0
+Gradient Boosting,test,135,0,0
+Gradient Boosting,test,145,0,0
+Gradient Boosting,test,151,0,0
+Gradient Boosting,test,158,0,0
+Gradient Boosting,test,167,0,0
+Gradient Boosting,test,175,0,0
+Gradient Boosting,test,186,0,0
+Gradient Boosting,test,197,0,0
+Gradient Boosting,test,207,0,0
+Gradient Boosting,test,214,0,1
+Gradient Boosting,test,220,0,0
+Gradient Boosting,test,228,1,1
+Gradient Boosting,test,235,1,1
+Gradient Boosting,test,242,1,1
+Gradient Boosting,test,249,0,0
+Gradient Boosting,test,256,0,0
+Gradient Boosting,test,263,0,0
+Gradient Boosting,test,270,0,0
+Gradient Boosting,test,278,0,0
+Gradient Boosting,test,286,0,0
+Gradient Boosting,test,292,0,0
+Gradient Boosting,test,298,1,0
+Gradient Boosting,test,306,1,1
+Gradient Boosting,test,313,1,1
+Gradient Boosting,test,320,1,1
+Gradient Boosting,test,327,1,0
+Gradient Boosting,test,334,1,1
+Gradient Boosting,test,341,1,1
+Gradient Boosting,test,350,1,0
+Gradient Boosting,test,359,1,1
+Gradient Boosting,test,364,1,1
+Gradient Boosting,test,369,1,1
+Gradient Boosting,test,379,1,1
+Dummy mayoritario,test,3,0,0
+Dummy mayoritario,test,9,0,0
+Dummy mayoritario,test,17,0,0
+Dummy mayoritario,test,25,0,0
+Dummy mayoritario,test,30,0,0
+Dummy mayoritario,test,39,0,0
+Dummy mayoritario,test,49,0,0
+Dummy mayoritario,test,57,0,0
+Dummy mayoritario,test,61,0,0
+Dummy mayoritario,test,70,0,0
+Dummy mayoritario,test,80,0,0
+Dummy mayoritario,test,86,0,0
+Dummy mayoritario,test,94,0,0
+Dummy mayoritario,test,103,0,0
+Dummy mayoritario,test,105,0,0
+Dummy mayoritario,test,109,0,0
+Dummy mayoritario,test,116,0,0
+Dummy mayoritario,test,126,0,0
+Dummy mayoritario,test,135,0,0
+Dummy mayoritario,test,145,0,0
+Dummy mayoritario,test,151,0,0
+Dummy mayoritario,test,158,0,0
+Dummy mayoritario,test,167,0,0
+Dummy mayoritario,test,175,0,0
+Dummy mayoritario,test,186,0,0
+Dummy mayoritario,test,197,0,0
+Dummy mayoritario,test,207,0,0
+Dummy mayoritario,test,214,0,0
+Dummy mayoritario,test,220,0,0
+Dummy mayoritario,test,228,1,0
+Dummy mayoritario,test,235,1,0
+Dummy mayoritario,test,242,1,0
+Dummy mayoritario,test,249,0,0
+Dummy mayoritario,test,256,0,0
+Dummy mayoritario,test,263,0,0
+Dummy mayoritario,test,270,0,0
+Dummy mayoritario,test,278,0,0
+Dummy mayoritario,test,286,0,0
+Dummy mayoritario,test,292,0,0
+Dummy mayoritario,test,298,1,0
+Dummy mayoritario,test,306,1,0
+Dummy mayoritario,test,313,1,0
+Dummy mayoritario,test,320,1,0
+Dummy mayoritario,test,327,1,0
+Dummy mayoritario,test,334,1,0
+Dummy mayoritario,test,341,1,0
+Dummy mayoritario,test,350,1,0
+Dummy mayoritario,test,359,1,0
+Dummy mayoritario,test,364,1,0
+Dummy mayoritario,test,369,1,0
+Dummy mayoritario,test,379,1,0

@@ -1,0 +1,3 @@
+Variable,Q1,Q3,IQR,Límite inferior,Límite superior,Outliers,% train,Mínimo,Máximo,Acción
+Age,29.0,51.0,22.0,-4.0,84.0,0,0.0,17,82,Conservar
+n_antecedentes_afirmativos,0.0,0.0,0.0,0.0,0.0,22,8.42911877394636,0,2,Conservar

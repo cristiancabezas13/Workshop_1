@@ -1,0 +1,83 @@
+{
+  "problema": "recurrencia de cáncer diferenciado de tiroides",
+  "ganador": "Gradient Boosting",
+  "criterio_seleccion": "Recall val descendente; F1; Precision; brecha absoluta F1 ascendente; interpretabilidad",
+  "filas_originales": 383,
+  "filas_limpias": 364,
+  "duplicados_eliminados": 19,
+  "particiones": {
+    "train": 261,
+    "validacion": 52,
+    "test": 51
+  },
+  "validacion": {
+    "Accuracy": 0.9038461538461539,
+    "Precision": 0.8461538461538461,
+    "Recall": 0.7857142857142857,
+    "F1": 0.8148148148148148
+  },
+  "test": {
+    "Accuracy": 0.9215686274509803,
+    "Precision": 0.9230769230769231,
+    "Recall": 0.8,
+    "F1": 0.8571428571428571
+  },
+  "cv_media": {
+    "Accuracy": 0.8577543406977369,
+    "Precision": 0.7697874493927126,
+    "Recall": 0.7713725490196078,
+    "F1": 0.7664502003990326
+  },
+  "cv_std": {
+    "Accuracy": 0.031084892603272532,
+    "Precision": 0.06337448991824324,
+    "Recall": 0.08872809686345348,
+    "F1": 0.04660690196379626
+  },
+  "test_matriz": [
+    [
+      35,
+      1
+    ],
+    [
+      3,
+      12
+    ]
+  ],
+  "sha256": "a2c65f7c8fa0e78a65aa4946961aafd45218c92760d10375fe2c778045c97b44",
+  "semilla": 42,
+  "versiones": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7",
+    "seaborn": "0.13.2"
+  },
+  "validacion_estructural": "aprobada",
+  "adaptacion_iqr": {
+    "variable_derivada": "n_antecedentes_afirmativos",
+    "formula": "1[Hx Smoking = Yes] + 1[Hx Radiothreapy = Yes]",
+    "alcance": "Solo EDA sobre entrenamiento; excluida de X y modelos",
+    "dominio": [
+      0,
+      1,
+      2
+    ],
+    "nulos_train": 0,
+    "frecuencias_train": {
+      "0": 239,
+      "1": 19,
+      "2": 3
+    },
+    "q1": 0.0,
+    "q3": 0.0,
+    "iqr": 0.0,
+    "registros_senalados": 22,
+    "porcentaje_train_senalado": 8.42911877394636,
+    "registros_eliminados_iqr": 0,
+    "incluida_en_modelos": false,
+    "ausentes": "El conteo es ausente si falta cualquiera de los dos campos",
+    "etiquetas_desconocidas": "ValueError antes de contar"
+  }
+}

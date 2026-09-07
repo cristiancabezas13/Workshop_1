@@ -1,0 +1,2 @@
+Variable,Tipo,Definición,Unidad,Dominio,Uso,Límite
+n_antecedentes_afirmativos,Cuantitativa discreta derivada,1[Hx Smoking = Yes] + 1[Hx Radiothreapy = Yes],Campos registrados con respuesta afirmativa (de dos posibles),"0, 1, 2; ausente si cualquiera de los dos campos falta","Solo EDA de entrenamiento: descriptivos, frecuencias, IQR y dispersión","No mide episodios, intensidad ni riesgo clínico; no es una medición original"

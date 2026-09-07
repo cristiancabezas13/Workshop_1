@@ -1,0 +1,21 @@
+{
+  "dataset": "jainaru/thyroid-disease-data",
+  "version_kaggle": 1,
+  "archivo": "Thyroid_Diff.csv",
+  "filas_originales": 383,
+  "columnas_originales": 17,
+  "sha256": "a2c65f7c8fa0e78a65aa4946961aafd45218c92760d10375fe2c778045c97b44",
+  "fuente": "https://www.kaggle.com/datasets/jainaru/thyroid-disease-data/data",
+  "descarga": "https://www.kaggle.com/api/v1/datasets/download/jainaru/thyroid-disease-data?datasetVersionNumber=1",
+  "documentacion_original": "https://doi.org/10.24432/C5632J",
+  "ejecutado_utc": "2026-09-07T23:36:10.124868+00:00",
+  "descargado_en_esta_ejecucion": false,
+  "versiones": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.7",
+    "seaborn": "0.13.2"
+  }
+}

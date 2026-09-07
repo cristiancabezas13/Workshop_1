@@ -1,0 +1,64 @@
+{
+  "verified_at_utc": "2026-09-07T23:42:04.889026+00:00",
+  "scope": "Final notebook startup, repository-root path detection and autonomous download from empty directories.",
+  "python": "3.12.14",
+  "remote_colab_session_executed": false,
+  "checks": [
+    {
+      "notebook": "01_regresion_vuelos.ipynb",
+      "scenario": "repository_root",
+      "passed": true,
+      "executed_code_cells": 3
+    },
+    {
+      "notebook": "01_regresion_vuelos.ipynb",
+      "scenario": "empty_directory",
+      "passed": true,
+      "executed_code_cells": 4,
+      "download_sha256": "c27377aa4451d4427794523f3292dd2c2dc312f29c6d880aef4df1dcf1aaf7a3",
+      "download_bytes": 24683279
+    },
+    {
+      "notebook": "02_clasificacion_tiroides.ipynb",
+      "scenario": "repository_root",
+      "passed": true,
+      "executed_code_cells": 3
+    },
+    {
+      "notebook": "02_clasificacion_tiroides.ipynb",
+      "scenario": "empty_directory",
+      "passed": true,
+      "executed_code_cells": 4,
+      "download_sha256": "a2c65f7c8fa0e78a65aa4946961aafd45218c92760d10375fe2c778045c97b44",
+      "download_bytes": 43588
+    }
+  ],
+  "full_clean_kernel_runs": [
+    {
+      "notebook": "01_regresion_vuelos.ipynb",
+      "code_cells": 23,
+      "errors": 0,
+      "seconds": 172.0
+    },
+    {
+      "notebook": "02_clasificacion_tiroides.ipynb",
+      "code_cells": 26,
+      "errors": 0,
+      "seconds": 5.7
+    }
+  ],
+  "independent_audit": {
+    "metric_values_recomputed": 78,
+    "metrics_match_saved_predictions": true,
+    "workshop_1_content_preserved": true,
+    "pdf_preserved": true,
+    "pdf_sha256": "d50848670df39184f242777d55bf2bac12060c8f4792c888d6bc791a71a2f801",
+    "thyroid_train_derived_count_frequencies": {
+      "0": 239,
+      "1": 19,
+      "2": 3
+    },
+    "thyroid_derived_count_iqr_flagged_retained": 22,
+    "thyroid_derived_count_added_to_model_predictors": false
+  }
+}

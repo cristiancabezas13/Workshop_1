@@ -1,0 +1,4 @@
+paso,filas,columnas
+CSV original,300153,12
+Retirar índice y duplicados completos,300153,11
+Retirar target nulo y flight,300153,10

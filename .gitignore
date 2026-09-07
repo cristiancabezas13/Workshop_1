@@ -1,6 +1,9 @@
-# Datos descargados de Kaggle (no se versionan: se bajan con kagglehub)
+# Datos descargados de Kaggle (no se versionan: cada notebook documenta su descarga)
 anime.csv
 rating.csv
+Clean_Dataset.csv
+Thyroid_Diff.csv
+**/data/*.csv
 *.zip
 
 # Jupyter / Python
@@ -9,5 +12,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-
-GUIA_SUSTENTACION.md
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+*.log

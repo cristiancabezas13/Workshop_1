@@ -1,0 +1,15 @@
+Variable,Categorías train,Imputación,Encoding,Justificación
+Gender,2,Moda,One-Hot,Nominal: sin orden cuantitativo.
+Smoking,2,Moda,One-Hot,Binaria: One-Hot mantiene el bloque categórico común.
+Hx Smoking,2,Moda,One-Hot,Binaria: no se supone intensidad del antecedente.
+Hx Radiothreapy,2,Moda,One-Hot,Binaria: no representa dosis ni tiempo.
+Thyroid Function,5,Moda,One-Hot,Estados funcionales: no se supone distancia lineal.
+Physical Examination,5,Moda,One-Hot,Hallazgos distintos sin orden de distancia.
+Adenopathy,6,Moda,One-Hot,Estados/localizaciones: no existe distancia numérica natural.
+Pathology,4,Moda,One-Hot,"Tipos histológicos nominales, no rangos numéricos."
+Focality,2,Moda,One-Hot,Tipos de focalidad: no se inventa una escala continua.
+Risk,3,Moda,One-Hot,"Hay orden clínico, pero no intervalos iguales demostrados."
+T,7,Moda,One-Hot,Categoría TNM con subniveles: evitar distancias arbitrarias.
+N,3,Moda,One-Hot,Categorías de ganglios: no equivalen a un conteo.
+M,2,Moda,One-Hot,Categoría de metástasis: mantener One-Hot común.
+Stage,5,Moda,One-Hot,Estadios ordenados sin intervalos numéricos uniformes.

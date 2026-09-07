@@ -1,0 +1,10 @@
+{
+  "estado": "aprobado",
+  "metodo": "Recalculo independiente de MAE/MSE/R2 por residuos con NumPy, sin reutilizar funciones sklearn del notebook. Targets comparados contra CSV original.",
+  "modelos_test_verificados": 6,
+  "metricas_contrastadas": 18,
+  "max_diferencia_absoluta": 3.725290298461914e-09,
+  "filas_test": 45023,
+  "filas_particionadas": 300153,
+  "cv_medias_desviaciones": "coinciden; desviacion muestral ddof=1"
+}

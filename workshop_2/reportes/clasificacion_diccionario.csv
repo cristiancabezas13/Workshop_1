@@ -1,0 +1,18 @@
+Columna,Tipo esperado,Significado,Uso,Tipo leído
+Age,Entero,Edad del paciente (años),Predictor numérico,int64
+Gender,Categoría nominal,Género registrado,Predictor categórico,object
+Smoking,Categoría binaria,Tabaquismo registrado,Predictor categórico,object
+Hx Smoking,Categoría binaria,Antecedente de tabaquismo,Predictor categórico,object
+Hx Radiothreapy,Categoría binaria,Antecedente de radioterapia,Predictor categórico,object
+Thyroid Function,Categoría nominal,Clasificación de función tiroidea,Predictor categórico,object
+Physical Examination,Categoría nominal,Hallazgo de examen físico tiroideo,Predictor categórico,object
+Adenopathy,Categoría nominal,Estado o localización de adenopatías,Predictor categórico,object
+Pathology,Categoría nominal,Tipo histopatológico registrado,Predictor categórico,object
+Focality,Categoría nominal,Focalidad unifocal o multifocal,Predictor categórico,object
+Risk,Categoría clínica ordenada,Nivel de riesgo registrado,Predictor categórico,object
+T,Categoría clínica ordenada,Categoría T de tumor primario en TNM,Predictor categórico,object
+N,Categoría clínica,Categoría N de ganglios regionales en TNM,Predictor categórico,object
+M,Categoría clínica,Categoría M de metástasis distante en TNM,Predictor categórico,object
+Stage,Categoría clínica ordenada,Estadio clínico registrado,Predictor categórico,object
+Response,Categoría clínica,Respuesta al tratamiento,Excluida: posible información posterior,object
+Recurred,Categoría binaria,Recurrencia observada: Yes o No,"Objetivo: Yes=1, No=0",object

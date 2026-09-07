@@ -1,0 +1,152 @@
+{
+  "KNN|train": [
+    [
+      176,
+      6
+    ],
+    [
+      18,
+      61
+    ]
+  ],
+  "KNN|validacion": [
+    [
+      35,
+      3
+    ],
+    [
+      4,
+      10
+    ]
+  ],
+  "Árbol de decisión|train": [
+    [
+      182,
+      0
+    ],
+    [
+      1,
+      78
+    ]
+  ],
+  "Árbol de decisión|validacion": [
+    [
+      34,
+      4
+    ],
+    [
+      5,
+      9
+    ]
+  ],
+  "Random Forest|train": [
+    [
+      182,
+      0
+    ],
+    [
+      1,
+      78
+    ]
+  ],
+  "Random Forest|validacion": [
+    [
+      36,
+      2
+    ],
+    [
+      3,
+      11
+    ]
+  ],
+  "Gradient Boosting|train": [
+    [
+      180,
+      2
+    ],
+    [
+      1,
+      78
+    ]
+  ],
+  "Gradient Boosting|validacion": [
+    [
+      36,
+      2
+    ],
+    [
+      3,
+      11
+    ]
+  ],
+  "Dummy mayoritario|train": [
+    [
+      182,
+      0
+    ],
+    [
+      79,
+      0
+    ]
+  ],
+  "Dummy mayoritario|validacion": [
+    [
+      38,
+      0
+    ],
+    [
+      14,
+      0
+    ]
+  ],
+  "KNN|test": [
+    [
+      34,
+      2
+    ],
+    [
+      5,
+      10
+    ]
+  ],
+  "Árbol de decisión|test": [
+    [
+      32,
+      4
+    ],
+    [
+      4,
+      11
+    ]
+  ],
+  "Random Forest|test": [
+    [
+      34,
+      2
+    ],
+    [
+      2,
+      13
+    ]
+  ],
+  "Gradient Boosting|test": [
+    [
+      35,
+      1
+    ],
+    [
+      3,
+      12
+    ]
+  ],
+  "Dummy mayoritario|test": [
+    [
+      36,
+      0
+    ],
+    [
+      15,
+      0
+    ]
+  ]
+}

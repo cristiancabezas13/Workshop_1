@@ -1,0 +1,5 @@
+Etapa,Filas,Columnas,Filas retiradas
+Archivo original,383,17,0
+Normalización determinista,383,17,0
+Sin duplicados completos,364,17,19
+Objetivo separado; Response excluida,364,15,0

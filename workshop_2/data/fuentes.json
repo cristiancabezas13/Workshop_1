@@ -1,0 +1,20 @@
+[
+  {
+    "archivo": "Clean_Dataset.csv",
+    "dataset": "shubhambathwal/flight-price-prediction",
+    "version": 2,
+    "url": "https://www.kaggle.com/api/v1/datasets/download/shubhambathwal/flight-price-prediction?datasetVersionNumber=2",
+    "sha256": "c27377aa4451d4427794523f3292dd2c2dc312f29c6d880aef4df1dcf1aaf7a3",
+    "bytes": 24683279,
+    "descargado_utc": "2026-09-07T22:42:40.455622+00:00"
+  },
+  {
+    "archivo": "Thyroid_Diff.csv",
+    "dataset": "jainaru/thyroid-disease-data",
+    "version": 1,
+    "url": "https://www.kaggle.com/api/v1/datasets/download/jainaru/thyroid-disease-data?datasetVersionNumber=1",
+    "sha256": "a2c65f7c8fa0e78a65aa4946961aafd45218c92760d10375fe2c778045c97b44",
+    "bytes": 43588,
+    "descargado_utc": "2026-09-07T22:42:40.971234+00:00"
+  }
+]

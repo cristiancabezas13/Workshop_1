@@ -1,0 +1,10 @@
+{
+  "estado": "aprobado",
+  "metodo": "Recalculo independiente por TP/TN/FP/FN, sin reutilizar funciones sklearn del notebook. Targets comparados con CSV original e indices originales.",
+  "evaluaciones_modelo_conjunto": 15,
+  "metricas_contrastadas": 60,
+  "max_diferencia_absoluta": 1.1102230246251565e-16,
+  "filas_con_grupos_aislados": 364,
+  "cv_medias_desviaciones": "coinciden; desviacion muestral ddof=1",
+  "limitacion": "No demuestra validez clinica ni resuelve incertidumbre temporal del dataset."
+}
