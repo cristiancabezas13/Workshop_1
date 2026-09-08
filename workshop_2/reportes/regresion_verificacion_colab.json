@@ -1,0 +1,178 @@
+{
+  "fecha_verificacion": "2026-09-07",
+  "notebook": "workshop_2/01_regresion_vuelos.ipynb",
+  "plataforma": "Google Colab",
+  "python_observado_en_salida": "3.13.15",
+  "commit_fuente_ejecucion_completa": "a9bdebceef77c8e7562245e0876dd102ac6cc285",
+  "sha256_notebook_descargado": "93931153f1b5b605e2c15dc83ca7e81f5f7e5bcc189883e35190771aa63d3c5c",
+  "metodo": "Auditoria del notebook descargado mediante la interfaz de Colab: estructura, codigo, salidas, tablas y comparacion con el repositorio. No se ejecutaron modelos adicionales durante esta auditoria.",
+  "ejecucion_completa": {
+    "sesion_reiniciada_antes_de_ejecutar": true,
+    "celdas_totales": 50,
+    "celdas_codigo": 23,
+    "contadores_ejecucion": {
+      "primero": 1,
+      "ultimo": 23,
+      "consecutivos": true
+    },
+    "nbformat_valido": true,
+    "errores_guardados": 0,
+    "celdas_codigo_sin_salida": 0,
+    "figuras_png_incorporadas": 6,
+    "fuente_completa_coincide_con_commit_original": true,
+    "codigo_cientifico_desde_celda_indice_6_coincide_con_repositorio_actual": true,
+    "comprobaciones_finales_aprobadas": true,
+    "dataset": {
+      "archivo": "Clean_Dataset.csv",
+      "version_kaggle": 2,
+      "sha256": "c27377aa4451d4427794523f3292dd2c2dc312f29c6d880aef4df1dcf1aaf7a3",
+      "filas": 300153,
+      "filas_train": 210107,
+      "filas_validacion": 45023,
+      "filas_test": 45023,
+      "metricas_sobre_particiones_completas": true
+    },
+    "versiones_esperadas_e_instaladas_mostradas": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "scipy": "1.16.3",
+      "scikit-learn": "1.7.2",
+      "matplotlib": "3.10.7",
+      "seaborn": "0.13.2"
+    },
+    "tabla_versiones_importadas_incluida_en_esta_descarga": false
+  },
+  "resultados": {
+    "precision": "Se transcriben las cifras impresas; las tablas usan cuatro decimales o notacion cientifica. No se afirma identidad de todos los valores internos sin redondear.",
+    "ganador_validacion": "Random Forest",
+    "ranking_validacion_y_test": [
+      "Random Forest",
+      "Arbol de decision",
+      "KNN",
+      "Gradient Boosting",
+      "Lineal multiple"
+    ],
+    "ganador_y_rankings_coinciden_con_ejecucion_local": true,
+    "random_forest": {
+      "MAE_train": 422.2006,
+      "MAE_validacion": 1093.579,
+      "MSE_validacion_impreso_en_interpretacion": 7509515.8,
+      "R2_validacion_impreso_en_seleccion": 0.9854,
+      "MAE_test": 1097.8574,
+      "MSE_test_impreso": "7.7579e+06",
+      "R2_test_impreso": "9.8489e-01",
+      "cv_cinco_folds": {
+        "MAE_por_fold": [
+          1133.8064,
+          1141.5715,
+          1116.4643,
+          1122.3222,
+          1117.0978
+        ],
+        "MAE_media_impresa_en_interpretacion": 1126.25,
+        "MAE_desviacion_impresa_en_interpretacion": 11.03,
+        "MAE_desviacion_impresa_en_tabla": 11.0318,
+        "desviacion_ddof": 1
+      }
+    },
+    "comparacion_tablas_con_ejecucion_local": {
+      "train_validacion": "Todas las filas coinciden a la precision mostrada salvo KNN.",
+      "test": "Todas las filas coinciden a la precision mostrada salvo KNN.",
+      "cv_por_fold": "Metricas y cantidades de filas coinciden a la precision mostrada en los cinco folds; los tiempos son distintos.",
+      "cv_resumen": "La tabla completa de medias, desviaciones y validacion holdout coincide a la precision mostrada.",
+      "referencia_local": "Tablas guardadas en el notebook del repositorio y reportes/regresion_metricas.csv."
+    },
+    "diferencias_knn": {
+      "MAE_train": {
+        "local_impreso": 1385.9992,
+        "colab_impreso": 1386.0616,
+        "delta_colab_menos_local_aproximada": 0.0624
+      },
+      "MAE_validacion": {
+        "local_impreso": 1769.0573,
+        "colab_impreso": 1769.166,
+        "delta_colab_menos_local_aproximada": 0.1087
+      },
+      "MAE_test": {
+        "local_impreso": 1787.6947,
+        "colab_impreso": 1787.5838,
+        "delta_colab_menos_local_aproximada": -0.1109
+      },
+      "MSE_train_impreso": {
+        "local": "8.6244e+06",
+        "colab": "8.6234e+06"
+      },
+      "MSE_validacion_impreso": {
+        "local": "1.3651e+07",
+        "colab": "1.3655e+07"
+      },
+      "MSE_test_impreso": {
+        "local": "1.4092e+07",
+        "colab": "1.4091e+07"
+      },
+      "R2_validacion_impreso": {
+        "local": "9.7355e-01",
+        "colab": "9.7354e-01"
+      },
+      "interpretacion": "Son pequenas diferencias observadas entre ejecuciones. Se conservan las predicciones obtenidas; no se cambiaron modelos, hiperparametros, particiones ni criterio de seleccion. No se ha probado una causa especifica, como un desempate de vecinos."
+    }
+  },
+  "tiempos_observados_segundos": {
+    "fuente": "Tablas y mensajes calculados durante la ejecucion; no se usan los timestamps heredados del archivo.",
+    "ajuste_por_modelo": {
+      "Lineal multiple": 1.2937,
+      "KNN": 0.8114,
+      "Arbol de decision": 2.8642,
+      "Random Forest": 121.6621,
+      "Gradient Boosting": 55.3537,
+      "Referencia media": 0.7512
+    },
+    "prediccion_knn": {
+      "train": 367.982,
+      "validacion": 82.8858
+    },
+    "cv_total_impreso": 479.3,
+    "cv_ajuste_por_fold": [
+      89.5866,
+      96.7883,
+      99.5697,
+      91.7672,
+      89.5205
+    ],
+    "cv_evaluacion_por_fold": [
+      2.402,
+      3.6161,
+      2.8732,
+      1.4877,
+      1.4645
+    ],
+    "duracion_total_notebook_no_inferida": true,
+    "nota_metadata": "Colab conservo language_info.version=3.12.14 y metadata execution del notebook local en las celdas cientificas. Son incompatibles con la version 3.13.15 y los tiempos nuevos impresos; no se usan como evidencia del runtime ni de su duracion."
+  },
+  "estado_correccion_arranque": {
+    "commit": "cc06f6185a6eab9a2aa803677783faee60886b1c",
+    "arranque_corregido_verificado_localmente": true,
+    "celda_instaladora_comun_identica_a_clasificacion": true,
+    "misma_celda_comun_verificada_en_colab_clasificacion_sesion_preparada": true,
+    "arranque_corregido_regresion_verificado_en_colab_en_esta_evidencia": true,
+    "alcance": "Tras la ejecucion completa original, se recargo la version corregida y se ejecutaron sus dos celdas iniciales en la misma sesion preparada de Colab. Ambas terminaron sin errores, comprobaron versiones en disco y memoria y resolvieron BASE=/content. No se repitieron los modelos en esta prueba acotada; su codigo permanece igual.",
+    "referencia_clasificacion": "clasificacion_verificacion_colab.json",
+    "prueba_arranque_remota": {
+      "sha256_descarga": "c66b2d3a683483f59c1c8cb10060b5da13ab2eef868104979ca0d07dc269f079",
+      "celdas_indice_base_cero": [
+        3,
+        4
+      ],
+      "contadores": [
+        24,
+        25
+      ],
+      "python": "3.13.15",
+      "errores": 0,
+      "source_coincide_con_celdas_finales": true,
+      "sesion_ya_preparada": true,
+      "versiones_esperadas_instaladas_importadas_coinciden": true,
+      "resto_de_salidas_de_esta_descarga_no_usadas_como_evidencia_remota": true
+    }
+  }
+}

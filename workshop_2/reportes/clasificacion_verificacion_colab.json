@@ -1,0 +1,76 @@
+{
+  "fecha_verificacion": "2026-09-07",
+  "notebook": "workshop_2/02_clasificacion_tiroides.ipynb",
+  "plataforma": "Google Colab",
+  "python": "3.13.15",
+  "metodo": "Inspeccion de los notebooks descargados mediante la interfaz de Colab y comparacion con los commits del repositorio; no se volvieron a ejecutar modelos durante esta auditoria.",
+  "ejecuciones": [
+    {
+      "version": "original, tras reiniciar la sesion para cargar las dependencias instaladas",
+      "commit_fuente": "a9bdebceef77c8e7562245e0876dd102ac6cc285",
+      "sha256_descarga": "7bc952c8034d354e26be3eddfd598873e8e155613aca560b9d7d993b4dc2873f",
+      "celdas_totales": 55,
+      "celdas_codigo": 26,
+      "contadores_ejecucion": {"primero": 1, "ultimo": 26, "consecutivos": true},
+      "errores_guardados": 0,
+      "celdas_codigo_sin_salida": 0,
+      "figuras_png_incorporadas": 8,
+      "nbformat_valido": true,
+      "fuente_todas_las_celdas_coincide_con_commit": true,
+      "versiones_en_disco_mostradas": true,
+      "versiones_importadas_mostradas": false
+    },
+    {
+      "version": "corregida, ejecutada en la misma sesion ya preparada con versiones compatibles",
+      "commit_fuente": "cc06f6185a6eab9a2aa803677783faee60886b1c",
+      "sha256_descarga": "962ac1897847db6505a86f2db8e0f5a16e87c65d3b42dff0027a256f2d88c5a8",
+      "celdas_totales": 55,
+      "celdas_codigo": 26,
+      "contadores_ejecucion": {"primero": 27, "ultimo": 52, "consecutivos": true},
+      "errores_guardados": 0,
+      "celdas_codigo_sin_salida": 0,
+      "figuras_png_incorporadas": 8,
+      "nbformat_valido": true,
+      "fuente_todas_las_celdas_coincide_con_commit": true,
+      "ejecucion_desde_kernel_nuevo": false,
+      "versiones": {
+        "numpy": {"esperada": "2.2.6", "instalada": "2.2.6", "importada": "2.2.6"},
+        "pandas": {"esperada": "2.3.3", "instalada": "2.3.3", "importada": "2.3.3"},
+        "scipy": {"esperada": "1.16.3", "instalada": "1.16.3", "importada": "1.16.3"},
+        "scikit-learn": {"esperada": "1.7.2", "instalada": "1.7.2", "importada": "1.7.2"},
+        "matplotlib": {"esperada": "3.10.7", "instalada": "3.10.7", "importada": "3.10.7"},
+        "seaborn": {"esperada": "0.13.2", "instalada": "0.13.2", "importada": "0.13.2"}
+      }
+    }
+  ],
+  "comparacion_fuente": "Todas las celdas de cada descarga coinciden con su commit indicado, ignorando espacios externos. Entre la version original y la corregida solo cambian las tres celdas de entorno; el codigo del analisis y los modelos se conserva.",
+  "resultados_en_ambas_ejecuciones": {
+    "ganador_validacion": "Gradient Boosting",
+    "precision_numerica": "Metricas transcritas de las tablas impresas a cuatro decimales; los conteos son enteros exactos.",
+    "validacion": {"Accuracy": 0.9038, "Precision": 0.8462, "Recall": 0.7857, "F1": 0.8148},
+    "test": {"Accuracy": 0.9216, "Precision": 0.9231, "Recall": 0.8000, "F1": 0.8571},
+    "conteos_test": {"recurrencias_reales": 15, "verdaderos_positivos": 12, "falsos_negativos": 3, "falsos_positivos": 1},
+    "cv_cinco_folds_sobre_train": {
+      "Recall_por_fold": [0.8235, 0.6667, 0.8667, 0.8125, 0.6875],
+      "Accuracy": {"media": 0.8578, "desviacion_ddof_1": 0.0311},
+      "Precision": {"media": 0.7698, "desviacion_ddof_1": 0.0634},
+      "Recall": {"media": 0.7714, "desviacion_ddof_1": 0.0887},
+      "F1": {"media": 0.7665, "desviacion_ddof_1": 0.0466}
+    },
+    "comparaciones_con_ejecucion_local": {
+      "tabla_completa_test_textualmente_igual": true,
+      "tabla_resumen_cv_textualmente_igual": true,
+      "tabla_particiones_cv_textualmente_igual": true,
+      "aplica_a_ambas_descargas": true,
+      "alcance": "Se compararon las representaciones text/plain guardadas de estas tablas; no se afirma igualdad de tiempos de ejecucion ni de todos los valores internos sin redondear."
+    },
+    "comprobaciones_finales_del_notebook": "Particiones, grupos, preprocesamiento, tablas, matrices y metricas aprobadas en las dos ejecuciones."
+  },
+  "incidencia_inicial_y_correccion": {
+    "error_observado_antes_del_reinicio": "AttributeError: 'numpy.ufunc' object has no attribute '__module__' al importar seaborn despues de instalar dependencias en la sesion activa.",
+    "resolucion_observada": "Reiniciar la sesion para cargar las versiones instaladas permitio completar la ejecucion original.",
+    "correccion_en_el_notebook": "La celda instaladora instala solo versiones pendientes y detiene con SystemExit si se modificaron paquetes o hay versiones incompatibles en memoria. Una bandera mantiene la necesidad de reinicio al repetir la celda. La siguiente celda contrasta versiones esperadas, instaladas e importadas.",
+    "instruccion": "Entorno de ejecucion > Reiniciar sesion; despues Ejecutar todo.",
+    "limite_de_la_prueba_remota_corregida": "La version corregida completo todas las celdas en una sesion ya preparada. Esta descarga no demuestra una instalacion inicial de la version corregida desde un runtime nuevo ni una ejecucion que pudiera prescindir del reinicio."
+  }
+}
